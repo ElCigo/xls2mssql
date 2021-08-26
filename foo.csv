@@ -1,0 +1,1146 @@
+1,0,"Poslovni cilj definiran od Uprave, odobren od Nadzornog Odbora.",Company cilj,2020-12-31,1,2020-09-17 12:22:09.307000,
+2,1,Retail unsecured cash collected,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.883000,admin
+3,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.887000,admin
+4,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.887000,admin
+5,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.887000,admin
+6,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.887000,admin
+7,1,Akcije i faze targetirane na 5 radnih dana I prigovore na 15 kalendarskih dana riješiti u zadanom roku,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.887000,admin
+8,1,"Detaljno pregledati svu PM dokumentaciju koja se nalazi na IT share-u te odraditi novu organizaciju po projektima uz detaljnu analizu dokumentacije koja je možda na JIRI, direktno na emailu ili na bilo kojem drugom izvoru ",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.890000,admin
+9,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.890000,admin
+10,1,Puštanje straniceza Sloveniju po uzoru na b2nekretnine.hr zajedno sa Anðelkom Beloševiæem,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.890000,admin
+11,1,"Uspostavljanje DQA baze podataka na dostupnom SQL serveru. Priprema samog okruženja (podešavanje roles&rights, èišæenje,pregled postavki). Kreiranje arhitekture okruženja (relacijske baze podataka, opæe baze podataka, log-file-ovi). Prebacivanje daily tablica i procesa u SQL.",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.890000,admin
+12,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.890000,admin
+13,1,Ratio of cash vs repossession in recovery: keeping on a high level cash recovery in total recovered amount *,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.890000,admin
+14,1,Generalna percepcija kvalitete posla Office managementa na nivou kompanije,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.890000,admin
+15,1,Odnos izmeðu novèane naplate i preuzimanja nekretnina u naplati: održavanje visoke razine novèane naplate u ukupnoj naplati,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.890000,admin
+16,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.890000,admin
+17,1,gesrer,Timski cilj,2020-12-31,1,2020-10-05 10:23:48.223000,anja.sa
+18,1,Max possible report automation and connecting AroTron collateral IDs to curves,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.893000,admin
+19,1,Ratio of cash vs repossession in recovery: keeping on a high level cash recovery in total recovered amount,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.893000,admin
+20,1,"AroTRON infrastruktura prelazi u DC.
+Namjera je prebaciti lokaciju produkcije i test okoline s premještanjem produkcijskih poslužitelja AroTRON i Exelisys na A1 IaaS (DC) kako bi se postigle bolje performanse kroz skalabilnost resursa i podizanje verzije SQL servera te premještanje AroTRON servera za testiranje natrag u virtualnu infrastrukturu koja nalazi se u prostorijama B2K. Bez dodatnih troškova za B2K, samo ponovno korištenje trenutnih DC izvora.",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.893000,admin
+21,1,Akcije i faze targetirane na 5 radnih dana I prigovore na 15 kalendarskih dana riješiti u zadanom roku,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.893000,admin
+22,1,Keeping on a high level cash recovery in total recovered amount ,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.893000,admin
+23,1,Max possible report automation and connecting to AroTron  collateralIDs tocurves,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.893000,admin
+24,1,Ratio of cash vs repossession in recovery. Keeping on a high level cash recovery in total recovered amount *,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.893000,admin
+25,1,"All unmatched payments should be posted within 2 nd working days, all return of owerpayments should be within the legal dedline ",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.893000,admin
+26,1,Akcije i faze targetirane na 5 radnih dana I prigovore na 15 kalendarskih dana riješiti u zadanom roku,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.897000,admin
+27,1,Max possible report automation and connecting AroTron collateral Ids to curves,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.897000,admin
+28,1,"Ukupna naplata = 8.278.078,45 EUR (+/- 10%)",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.897000,admin
+29,1,Retail unsecured cash collected,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.897000,admin
+30,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.897000,admin
+31,1,"Ubrzati prosjeèno vrijeme rješavanja jednostavnih tiketa (eksternalizacija predmeta, customer import, brisanje akcija, promjena statusa itd.)",Timski cilj,2020-12-31,1,2020-10-04 11:23:41.367000,davorin.m
+32,1,All post must be processed in period of 2 working days,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.897000,admin
+33,1,"Odnos cash naplate i preuzimanja - zadržavanje veæeg postotka cash naplate u odnosu na preuzimanja u ukupnom izvješæu naplate. Iz ovog cilja su iskljuèeni predmeti IGH, Alf Group, PS Immo",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.900000,admin
+34,1,Akcije i faze targetirane na 5 radnih dana I prigovore na 15 kalendarskih dana riješiti u zadanom roku,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.900000,admin
+35,1,All physical post must be processed in period of 2 working days,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.900000,admin
+36,1,"Ukupna naplata u periodu od 01.07. do 31.12. treba iznositi 8.278.078,45 EUR ",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.900000,admin
+37,1,"ukupna naplata 8.278.078,45 EUR",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.900000,admin
+38,1,Satisfaction of other colleagues with Accounting department,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.900000,admin
+39,1,"Ukupna naplata 8.278.078,45 EUR (+/- 10%)",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.900000,admin
+40,1,"One 2 One IT staff communication, coaching and feedback meetings with the department Head",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.900000,admin
+41,1,Akcije  targetirane na 5 radnih dana riješiti u zadanom roku,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.900000,admin
+42,1,keeping on a high level cash recovery in total recovered amount *,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.900000,admin
+43,1,sve Akcije u closing queue - 5 radnih dana,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.903000,admin
+44,1,"Ratio of cash vs repossession in recovery: keeping on a high level cash recovery in total recovered amount (not included IGH, Alf Group, PS Immo)",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.903000,admin
+45,1,"Uspostavljanje DQA baze podataka na dostupnom SQL serveru. Priprema samog okruženja (podešavanje roles&rights, èišæenje, pregled postavki). Kreiranje arhitekture okruženja (relacijske baze podataka, opæe baze podataka, log file-ovi). Prebacivanje daily tablica i procesa u SQL.",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.903000,admin
+46,1,Max possible report automation and connecting AroTron collateral IDs to curves,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.903000,admin
+47,1,Ratio of cash vs repossession in recovery: keeping on a high level cash recovery in total recovered amount *,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.903000,admin
+48,1,"ukupna nplata=8.278.078,45 EUR (+/- 10%)",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.903000,admin
+49,1,"Ukupna naplata 8.278.078,45 EUR ",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.903000,admin
+50,1,Akcije  targetirane na 5 radnih dana riješiti u zadanom roku,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.903000,admin
+51,1,Generalna percepcija kvaliteta posla koji radi OM na nivou kompanije,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.907000,admin
+52,1,Active participation in Hidden Hook project and process improvement ,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.907000,admin
+53,1,Ratio of cash vs repossession in recovery: keeping on a high level cash recovery in total recovered amount *,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.907000,admin
+54,1,Max possible report automation and connecting AroTron collateral lds to curves,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.907000,admin
+55,1,15.000.000 HRK prihoda na temelju prodaje/zakupa preuzetih nekretnina u vlasništvu B2K (ukljuèujuæi B2RE i B2P). 40.000.000 HRK prihoda na temelju prodaje/zakupa preuzetih nekretnina iz Solaris portfelja,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.907000,admin
+56,1,Akcije  targetirane na 5 radnih dana riješiti u zadanom roku,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.907000,admin
+57,1,"ukupna timska naplata treba iznositi 8.278.078,45EUR (+/- 10%)",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.907000,admin
+58,1,Ostvarenje oba timska cilja unutar BBP,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.910000,admin
+59,1,"Ukupna Timska naplata/cash collected treba iznositi 8.278.078,45 EUR (+/- 10%)",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.910000,admin
+60,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.910000,admin
+61,1,Max possible report automation and connecting AroTron collateral IDs to curves,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.910000,admin
+62,1,"Ubrzanje prosjeènog vremena rješavanja jendostavnih ticketa:
+eksternalizacija,  brisanje akcija, promjena statusa predmeta",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.910000,admin
+63,1,"Ubrzati prosjeèno vrijeme rješavanja jednostavnih taskov:
+Externalizacija 
+customer import 
+brisanje akcija 
+promjena statusa ",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.910000,admin
+64,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.910000,admin
+65,1,Satisfaction of other colleagues with Accountin depatment,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.910000,admin
+66,1,Akcije i faze targetirane na 5 radnih dana I prigovore na 15 kalendarskih dana riješiti u zadanom roku,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.910000,admin
+67,1,Akcije i faze targetirane na 5 radnih dana I prigovore na 15 kalendarskih dana riješiti u zadanom roku,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.910000,admin
+68,1,"Ukupna naplata = 8.278.078,45 EUR (+/- 10%)",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.913000,admin
+69,1,Generalna percepcija kvalitete posla koji radi HR na nivou kompanije.ggggggg,Timski cilj,2020-12-31,1,2020-10-05 10:22:39.580000,ivana.l
+70,1,"Ukupna naplata = 8.278.078,45 EUR (+/- 10%)",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.913000,admin
+71,1,Active participation in Hiden hook project and process improvement,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.913000,admin
+72,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.913000,admin
+73,1,Ostvarenje oba timska cilja unutar CDP,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.913000,admin
+74,1,"Ukupna naplata 8.278.078,45 EUR ",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.913000,admin
+75,1,Max possible report automation,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.913000,admin
+76,1,Akcije  targetirane na 5 radnih dana riješiti u zadanom roku,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.917000,admin
+77,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.917000,admin
+78,1,"Odnos ""cash vs. Repossesion"" u naplati, održavanje viskog stupnja novèane naplate u odnosu na ukupnu naplatu(bez ALF, IGH, P.S. IMMO)",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.917000,admin
+79,1,Akcije  targetirane na 5 radnih dana riješiti u zadanom roku,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.917000,admin
+80,1,"Ratio of cash vs repossession in recovery: keeping on a high level cash recovery in total recovered amount (Not included IGH, Alf Group, PS Immo)",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.917000,admin
+81,1,Ratio of cash vs repossession in recovery: keeping on a high level cash recovery in total recovered amount,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.917000,admin
+82,1,Compliance & GDPR risk analiza na razini kompanije i procesa,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.917000,admin
+83,1,Ratio of cash vs repossession in recovery: keeping on a high level cash recovery in total recovered amount ,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.920000,admin
+84,1,Satisfaction of other colleagues with Accounting department,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.920000,admin
+85,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.920000,admin
+86,1,Generalna percepcija kvalitete posla koji radi HR na nivou kompanije,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.920000,admin
+87,1,"Odnos ""cash vs. repossesion"" u naplati , održavanje visokog stupnja novèane naplate u odnosu na ukupnu naplatu (nisu ukljuèeni IGH, Alf Group, PS Immo)",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.920000,admin
+88,1,Ratio of cash vs repossession in recovery: keeping on a high level cash recovery in total recovered amount *,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.920000,admin
+89,1,"Ukupna naplata = 8.278.078,45EUR",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.920000,admin
+90,1,Active participation in Hiden hook project and process improvement,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.920000,admin
+91,1,Akcije i faze targetirane na 5 radnih dana I prigovore na 15 kalendarskih dana riješiti u zadanom roku,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.920000,admin
+92,1,Retail unsecured cash collected,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.920000,admin
+93,1,Provedba risk analize sa preporukama za postupanje ,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.923000,admin
+94,1,Team Business Result/KPI (strategic team goal achievement)----All post must be processed in period of 2 working days,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.923000,admin
+95,1,"Ukupna timska naplata = 8.278.078,45 EUR (+/- 10%)",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.923000,admin
+96,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.923000,admin
+97,1,Ratio of cash vs repossession in recovery: keeping on a high level cash recovery in total recovered amount *,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.923000,admin
+98,1,All tasks inside the closing queue cant not be older then 5 working days,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.923000,admin
+99,1,"Ukupna naplata = 8.278.078,45 EUR ",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.923000,admin
+100,1,Ratio of cash vs repossession in recovery: keeping on a high level cash recovery in total recovered amount *,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.923000,admin
+101,1,Max possible report automation and connecting AroTron collateral IDs to curves,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.927000,admin
+102,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.927000,admin
+103,1,Retail unsecured cash collected,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.927000,admin
+104,1,Compliance & GDPR risk analiza na razini kompanije i procesa ,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.927000,admin
+105,1,"ukupna timska naplata 8.278.078,45EUR (+/-10%)",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.927000,admin
+106,1,Generalna percepcija kvalitete posla koji radi HR na nivou kompanije.,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.927000,admin
+107,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.927000,admin
+108,1,Ratio of cash vs repossession in recovery: keeping on a high level cash recovery in total recovered amount,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.930000,admin
+109,1,Ratio of cash vs repossession in recovery: keeping on a high level cash recovery in total recovered amount,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.930000,admin
+110,1,"Ukupna naplata=8.278.078,45 EUR (+/- 10%)",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.930000,admin
+111,1,Target naplate na retail unsecuredu,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.930000,admin
+112,1,Ratio of cash vs repossession in recovery: keeping on a high level cash recovery in total recovered amount *,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.930000,admin
+113,1,"Ukupna naplata = 8.278.078,45 EUR ",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.930000,admin
+114,1,All costs should be posted within 2nd working days from invoice receiving,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.930000,admin
+115,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.930000,admin
+116,1,omjer naplate u novcu u odnosu na naplatu preuzimanjem imovine: ostvarenje naplate u novcu u što vecem omjeru u odnosu na ukupnu naplatu*   ,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.930000,admin
+117,1,Ratio of cash vs repossession in recovery: keeping on a high level cash recovery in total recovered amount *,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.930000,admin
+118,1,Satisfaction of other colleagues with Accounting department,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.933000,admin
+119,1,"AroTRON infrastructure switch to DC
+Intention is to switch sites of production and tetst environment with moving AroTRON and Exelisys production servers to A1 IaaS (DC) to gain better performance through resources scalability, and raising a version of the SQL server, and moving AroTRON test servers back to virtual infrastructure which is at B2K premises. With no additional cost for B2K, just reusing current DC resources.",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.933000,admin
+120,1,Ratio of cash vs repossession in recovery: keeping on a high level cash recovery in total recovered amount,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.933000,admin
+121,1,"Ubrzati prosjeèno vrijeme rješavanja jednostavnih tiketa (eksternalizacija predmeta, customer import, brisanje akcija, promjena statusa itd.)",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.933000,admin
+122,1,"Ukupna timska naplata treba biti 8.278.078,45 EUR (+/- 10%)",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.933000,admin
+123,1,Retail unsecured cash collected,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.933000,admin
+124,1,"AroTRON infrastruktura prelazi u DC.
+Namjera je prebaciti lokaciju produkcije i test okoline s premještanjem produkcijskih poslužitelja AroTRON i Exelisys na A1 IaaS (DC) kako bi se postigle bolje performanse kroz skalabilnost resursa i podizanje verzije SQL servera te premještanje AroTRON servera za testiranje natrag u virtualnu infrastrukturu koja nalazi se u prostorijama B2K. Bez dodatnih troškova za B2K, samo ponovno korištenje trenutnih DC izvora.",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.933000,admin
+125,1,Ratio of cash vs repossession in recovery: keeping on a high level cash recovery in total recovered amount*,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.933000,admin
+126,1,zadovoljstvo drugih odjela prema odjelu Raèunovodstva,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.937000,admin
+127,1,Satisfactions of other colleagues with Accounting department,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.937000,admin
+128,1,"SOLARIS - definition and implementation of business processes ""AS IS""                                                                             ",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.937000,admin
+129,1,Ratio of cash vs repossession in recovery: keeping on a high level cash recovery in total recovered amount *,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.937000,admin
+130,1,Satisfaction of other colleagues with Accounting department,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.937000,admin
+131,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.937000,admin
+132,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.937000,admin
+133,1,"Ukupna timska naplata =8.278.078,45 EUR (+/- 10%)",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.940000,admin
+134,1,"Ukupna timska naplata= 8.278.078,45 EUR (+/- 10 %)",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.940000,admin
+135,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.940000,admin
+136,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.940000,admin
+137,1,Akcije i faze targetirane na 5 radnih dana I prigovore na 15 kalendarskih dana riješiti u zadanom roku,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.940000,admin
+138,1,.,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.940000,admin
+139,1,Generalna percepcija kvalitete posla koji radi OM na nivou kompanije,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.940000,admin
+140,1,Akcije i faze targetirane na 5 radnih dana I prigovore na 15 kalendarskih dana riješiti u zadanom roku,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.940000,admin
+141,1,Satisfaction of other colleagues with Accounting department,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.940000,admin
+142,1,"Uspostavljanje DQA baze podataka na dostupnom SQL serveru. Priprema samog okruženja (podešavanje roles&rights, èišæenje, pregled postavki). Kreiranje arhitekture okruženja (relacijske baze podataka, opæe baze podataka, log file-ovi). Prebacivanje daily tablica i procesa u SQL.",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.940000,admin
+143,1,"Ratio of cash vs repossession in recovery: 
+DESCRIPTION: keeping on a high level cash recovery in total recovered amount*
+*Not included IGH, Alf group, PS Immo",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.943000,admin
+144,1,Sve akcije tima moraju biti odradene kvalitetno i u predvidenom vremenskom roku ,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.943000,admin
+145,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.943000,admin
+146,1,"All unmatched payments should be posted within 2nd working days, all return of owerpayments should be within the legal deadline ",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.943000,admin
+147,1,"Ratio of cash vs repossession in recovery:
+Keeping on a high level cash recovery in total recovered amount",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.943000,admin
+148,1,Ratio of cash vs repossession in recovery: keeping on a high level cash recovery in total recovered amount,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.943000,admin
+149,1,Puštanje stranice za Sloveniju po uzoru na b2nekretninen.hr zajedno sa Anðelkom Beloševiæem,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.943000,admin
+150,1,n/a,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.947000,admin
+151,1,"Recovered amount in MKN:
+Description: recovered amount from 01.07.-31.12.2020. for SME Team
+",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.947000,admin
+152,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.947000,admin
+153,1,Retail unsecured cash collected,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.947000,admin
+154,1,"Ratio of cash vs repossession in recovery: keeping on a high level cash recovery in total recovered amount *
+",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.947000,admin
+155,1,Odnos izmeðu novèane naplate i preuzimanja nekretnina u naplati: održavanje visoke razine novèane naplate u ukupnoj naplati,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.947000,admin
+156,1,"ukupna naplata=8.278.078,45 EUR (+/-10%)",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.947000,admin
+157,1,Sva pošta mora biti proslijeðena u dljnji proces u roku 2 dana.,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.947000,admin
+158,1,Max possible report automation and connecting AroTron collateral Ids to curves,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.950000,admin
+159,1,Rezultati cijelog tima. ,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.950000,admin
+160,1,Generalna percepcija kvalitete posla koji radi HR na nivou Kompanije.,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.950000,admin
+161,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.950000,admin
+162,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.950000,admin
+163,1,Akcije i faze targetirane na 5 radnih dana I prigovore na 15 kalendarskih dana riješiti u zadanom roku,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.950000,admin
+164,1,"Ukupna naplata 8.278.078,45 EUR ",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.950000,admin
+165,1,Akcije i faze targetirane na 5 radnih dana I prigovore na 15 kalendarskih dana riješiti u zadanom roku,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.950000,admin
+166,1,Generalna percepcija kvalitete posla koji radi Office management na nivu kompanije,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.950000,admin
+167,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.953000,admin
+168,1,Generalna percepcija kvalitete posla koji radi HR na nivou kompanije,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.953000,admin
+169,1,All physical post must be processed in period of 2 working days,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.953000,admin
+170,1,15.000.000 HRK prihoda na temelju prodaje/zakupa preuzetih nekretnina u vlasništvu B2K (ukljuèujuæi B2RE i  B2P). 40.000.000 HRK prihoda na temelju prodaje/zakupa preuzetih nekretnina iz Solaris portfelja,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.953000,admin
+171,1,"SOLARIS - definition and implementation of business processes ""AS IS""",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.953000,admin
+172,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.953000,admin
+173,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.953000,admin
+174,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.953000,admin
+175,1,All tasks inside the closing queue can not be older then 5 working days,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.957000,admin
+176,1,All post must be processed in period of 2 working days ,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.957000,admin
+177,1,"Ratio of cash vs repossession in recovery: keeping on a high level cash recovery in total recovered amount * Not included IGH, Alf Group, PS Immo",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.957000,admin
+178,1,"Detaljno pregledati svu PM dokumentaciju koja se nalazi na IT share-u te odraditi novu organizaciju po projektima uz detaljnu analizu dokumentacije koja je možda na JIRI, direktno na emailu ili na bilo kojem drugom izvoru ",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.957000,admin
+179,1,"Ukupna naplata: 8.278.078,45 EUR (+/- 10%)",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.957000,admin
+180,1,Akcije  targetirane na 5 radnih dana riješiti u zadanom roku,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.957000,admin
+181,1,n/a,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.957000,admin
+182,1,Svi troškovi moraju biti evidentirani u roku od 2 radna dana od primitka raèuna,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.960000,admin
+183,1,"SOLARIS - definition and implementation of business processes ""AS IS"" ",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.960000,admin
+184,1,All physical post must be processed in period of 2 working days,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.960000,admin
+185,1,"Ukupna timska naplata = 8.278.078,45 EUR (+/- 10%)",Timski cilj,2020-12-31,1,2020-09-17 12:24:16.960000,admin
+186,1,Satisfaction of other colleagues with Accounting department,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.960000,admin
+187,1,Team Business Result/KPI ( strategic team goal achievement ,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.960000,admin
+188,1,Retail unsecured cash collected,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.960000,admin
+189,1,,Timski cilj,2020-12-31,1,2020-09-17 12:24:16.960000,admin
+190,2,Korištenje sustava Pantheon u svakodnevnom poslu,Pantheon,2020-11-30,1,,
+225,2,"Priprema i izvedba soft skills radionica; Uvod u komunikacijske vještine, Upravljanje vremenom i Upravljanje stresom do 31.12.2020.",Priprema i izvedba soft skills radionica,2020-12-31,1,,
+226,2,"Organizacija interne edukacije iz Arotrona i excela, sastaviti tim internih edukatora i istražiti potrebe za edukacijom do 31.10. organizirati izvedbu edukacija do 31.12.",Organizacija interne edukacije,2020-12-31,1,,
+227,2,Ovladati u potpunosti aplikacijom E-learning kao administrator do 31.12.,E- learning,2020-12-31,1,,
+228,2,Revidiranje postojeæih materijala i procesa mentoringa uz prijedloge za poboljšanje i prezentiranje Upravi i voditeljima do 30.09.,Mentoring program,2020-09-30,1,,
+230,2,Usklada dokumentacije zaposlenika sukladno GDPR-u,GDPR,2020-12-31,1,,
+231,2,Uspostava /kontrola u HR procesima,Kontrola HR procesa,2020-09-30,1,,
+232,2,Internal customers review,Internal customers review,2020-12-31,1,,
+233,2,Activate cases in own portfolio,Activate cases in own portfolio,2020-12-31,1,,
+234,2,Review of daily tasks; Review of initiaties in own portfolio; Monthly 1-1 review,Business review TL,2020-12-31,1,,
+235,2,Revise old and propose new methods for work measurement (incl. reports),Work measurement,2020-12-31,2,,
+236,2,"Further optimising our database in order to improve efficiency, speed and minimized possibility of night job failure",DWH database optimisation (including archiving/data retention),2020-12-31,1,,
+237,2,Further development of Qlik sense application and education of all the key users in order to maximize benefits of thew software.,Qlik sense development and user education,2020-12-31,1,,
+238,2,"Adding new functionalities in Qlik and RS REOs reports, updating the source of data as neccessary",Further development of REOs reports ,2020-12-31,1,,
+239,2,Learning about the impact of stress and the tools to manage it. ,Stress mangement,2020-12-31,2,,
+240,2,Team member is evaluated by coordinators of others teams,Internal customers review,2020-12-31,1,,
+241,2,engagement in cases in Team members own portfolio,Activate cases in own portfolio,2020-12-31,1,,
+242,2,Review of daily tasks; Review of initiaties in own portfoli; Monthly 1-1 review,Business review TL,2020-12-31,1,,
+243,2,"Include more options when proposing decisions, with legal arguments, define risks for each",Enhance proposal quality,2020-12-31,2,,
+244,2,Izrada izvještaja na mjeseènoj bazi,Izvještaj-Asset (Controling),2020-12-10,1,,
+245,2,Razvijanje razine samostalnosti u radu,Samostalnost u radu,2020-12-31,2,,
+246,2,Korištenje Excel-a u radu,Korištenje Excela,2020-12-31,2,,
+247,2,Applying knowledge from ML workshop to SME profitability model in order to maximize profit ,SME profitability model,2020-12-31,1,,
+248,2,Soft collateral database cleaning and optimization in order to have better data quality and improved analysis accuracy,Analysis of soft collateral database ,2020-12-31,1,,
+249,2,Creating planned vs realized cost to collect model that will improve monitoring business cost in the future,Cost to collect management ,2020-12-31,1,,
+250,2,Learning about the impact of relationships between colleagues and the tools to manage it,People management,2020-12-31,2,,
+251,2,Pripremiti Anti-fraud edukacijski materijal u okviru e-learning tool-a u suradnji s predstavnikom HR-a te na razini kompanije provesti edukaciju. ,Anti-fraud edukacijski materijal u okviru e-learning tool-a,2020-10-31,1,,
+252,2,"Podrška pri izradi i revidiranje internih akata odjela Pozadinskih poslova vezanih za poslovne procese primjerice prigovora, povrata preplaæenih sredstava i sl.  ",Praæenje izrade i revidiranje internih akata odjela Pozadinskih poslova ,2020-11-30,1,,
+253,2,GDPR edukacija zaposlenika ,GDPR edukacija zaposlenika ,2020-12-31,1,,
+254,2,Pohaðanje struène edukacije u podruèju GDPR-a radi stjecanja dodatnih znanja iz navedenog podruèja   ,Struèna edukacija GDPR ,2020-12-31,2,,
+255,2,Automatisation of all repetitive reports ,Automatisation,2020-12-31,1,,
+256,2,Definition of FTE need in Contingency plan ,FTE definition,2020-12-31,1,,
+257,2,DWH database optimisation (including archiving/data retention),DWH optimisation,2020-12-31,1,,
+259,2,Internal customers review,Internal customers review,2020-12-31,1,,
+260,2,Activate cases in own portfolio,Activate cases in own portfolio,2020-12-31,1,,
+261,2,"1. Review of daily tasks
+2. Review of initiaties in own portfolio
+3. Monthly 1-1 review
+",Business review TL,2020-12-31,1,,
+262,2,"Get engaged in internal procedures, review, propose, show more initiative",Engage in procedures,2020-12-31,2,,
+263,2,Internal customers review,Internal customers review,2020-12-31,1,,
+264,2,Activate cases in own portfolio,Activate cases in own portfolio,2020-12-31,1,,
+265,2,Business review TL,Business review TL,2020-12-31,1,,
+266,2,"Propose business improvements, get more engaged in strategic initiatives, be proactive","Propose business improvements, get more engaged in strategic initiatives, be proactive",2020-12-31,2,,
+267,2,team members are evaluated by TL of other teams and departments,Internal customers review,2020-12-31,1,,
+268,2,"number of lawsuits/execution procedures initiated, effort in solving individually assigned cases",Activate cases in own portfolio,2020-12-31,1,,
+269,2,Review of daily tasks; Review of initiaties in own portfolio; Monthly 1-1 review,Business review TL,2020-12-31,1,,
+270,2,Get involved in daily business as soon as possible,back to work,2020-12-31,2,,
+271,2,Strenghten support to B2 RE in order to clean data and prepare transfer to B2 K,Strenghten support to B2 RE in order to clean data and prepare transfer to B2 K,2020-12-31,1,,
+272,2,Coordination of import of databases (Strategy committee) into DWH and assistance with DP database,Individual Result KPI,2020-12-31,1,,
+273,2,Curve analysis and revision of cases that are not removed from the curve and should have been,Individual Result KPI,2020-12-31,1,,
+274,2,Amortization analytics,Individual Result KPI,2020-12-31,1,,
+275,2,"Net effect calculator on collateral, including template that would ease the curve revision process and biggest influences",Individual Result KPI,2020-12-31,1,,
+276,2,Learning about the impact of stress and the tools to manage it.,Stress management,2020-12-31,2,,
+277,2,Propose new process for management of REOs in books,Propose new process for management of REOs in books,2020-12-31,1,,
+278,2,Definition of FTE needs in Contingency plan,Definition of FTE needs in Contingency plan,2020-12-31,1,,
+279,2,Create one development of employee to higher organizational level,Create one development of employee to higher organizational level,2020-12-31,2,,
+281,2,"Coordination of import of databases into DWH (CC decisions, Pipeline report)",Individual Result KPI,2020-12-31,1,,
+282,2,Curve analysis and revision of cases that are not removed from the curve and should have been,Individual Result KPI,2020-12-31,1,,
+283,2,Connecting appraisal MV and LV to collaterals in the curve,Individual Result KPI,2020-12-31,1,,
+284,2,DP DWH database creation (decisions from CC imported to DWH),Individual Result KPI,2020-12-31,1,,
+285,2,Savladati u potpunosti pozicije zaposlenika i voditelja po odjelima,Bolje upoznavanje sa Organizacijom,2020-12-31,2,,
+286,2,Learning about the efficient use of time in everyday working tasks and the tools to manage it,Time management,2020-12-31,2,,
+287,2,Prepare collaterals to be linked with curves,Individualni cilj,2020-12-31,1,,
+288,2,Prepare data for Solaris migration,Individualni cilj,2020-12-31,1,,
+289,2,Definition of FTE needs in Contingency plan,Individualni cilj,2020-12-31,1,,
+290,2,Develope at least one employee for higher organizational level,Individualni cilj,2020-12-31,2,,
+291,2,"Regular daily and monthly work - performing tasks in due time, according to working shedule (correctness, in deadline)",Regular daily and monthly work,2020-12-31,1,,
+292,2,Improvement of process of handling the Reos (coordination with RE department),Improvement of process of handling the Reos (coordination with RE department),2020-12-31,1,,
+293,2,"Reading of professional literature and preparing of internal education for at least 3 articles in details from RRIF, TEB, 
+RIP (or presenting education on which employee participated) ",Internal education,2020-12-31,2,,
+294,2,Transfer of knowledge of VAT calculation and monthly report B2 Portfolio to Martina Fulir,Transfer of knowledge of VAT calculation and monthly report B2 Portfolio to Martina Fulir,2020-12-31,1,,
+295,2,Izrada Procedure za Tim knjiženje,"Procedura za zatvaranje predmeta (Closing, compensation)",2020-12-31,1,,
+296,2,Izrada organizcije timskog Foldera,Organizacija timskog Foldera,2020-12-31,1,,
+297,2,Radionica - asertivno razmišljanje i ponašanje,Workshop,2020-12-30,2,,
+298,2,Procedura za Incoming post,Izrada Procedure za Incoming post,2020-12-31,1,,
+299,2,Detaljna analiza svakog pojedinog taska unutar procesa incoming posta,Popis i analiza taskova za incoming post,2020-12-31,1,,
+300,2,Izrada radionice,Workshop-tema:Fokus na pozitivno razmišljanje u kriznim situacijama,2020-12-31,2,,
+301,2,"Prijedlog strategije za poticanje povezanosti meðu Odjelima - sadrži prijedlog provedbe plana, definirane korake i timeline",Povezanost meðu Odjelima - osmisliti akcijski cilj za Kompaniju,2020-12-31,1,2020-09-23 14:18:52.873000,petra.b
+302,2,"Ukljuèuje primarno provedbu kvalitativne analize postavljenih ciljeva, izradu formule i prijedloga za kalkulaciju bonusa i cijelokupni plan i provedbu kampanje revizije.",Post - implementacijske aktivnosti za Performance Management,2020-12-15,1,,
+303,2,Osmisliti politiku zadržavanja za kljuène zaposlenike,Retention policy,2020-10-31,1,2020-09-23 14:18:53.130000,petra.b
+304,2,Pohaðanje 8-dnevne škole Coacheva,Škola coacheva- certifikacija,2020-11-15,2,,
+305,2,"Napraviti sažetak radionice, obuhvatiti sva relevantna saznanja i prezentirati ih timu",HR analytics for HR BP - osnove prezentirane timu,2020-10-31,2,2020-09-29 10:36:06.010000,petra.b
+306,2,"Regular daily and monthly work - performing tasks in due time, according to working schedule (independence, pro-active, correctness, in deadline)",Poslovni cilj,2020-12-31,1,,
+307,2,"Preparing proposition and implementing tracking of undue loans in one file/excel sheet in order to handle them easy and simple
+Record of interest, allocation of un-due on due debt segments according to resolutions/contracts
+Defining tasks and queues in Aroton for implementing deadlines, reminders and results of completed items- to be certain that everything is up to date
+",Poslovni cilj,2020-12-31,1,,
+308,2,Taking over of VAT calculation and monthly report for B2 Portfolio from Mihaela,Poslovni cilj,2020-12-31,1,,
+309,2,"Reading of professional literature and preparing of internal education for at least 3 articles in details from RRIF, TEB, 
+RIP (or presenting education on which employee participated) 
+",Razvojni cilj,2020-12-31,2,,
+310,2,"Reading of professional literature and preparing of internal education for at least 3 articles in details from RRIF, TEB, RIP (or presenting education on which employee participated)",Internal education,2020-12-31,2,,
+311,2,"Regular daily and monthly work - performing tasks in due time, according to working schedule (independence, pro-active, correctness, in deadline)",Monthly work-correctly,2020-12-31,1,,
+312,2,"Exploring of all possible IT solutions regarding travel order calculations in purpose of automatization. Revision of travel order process in company, optimization and improvement realization in coordination with other departments (including education of heads and employees) and taking over travel order calculations",Travel orders,2020-12-31,1,,
+313,2,Kreiranje WF-ova i forme za  Planiranje i praæenje utrošenih resursa u projektima koristeæi JIRU,Planiranje i praæenje resursa u projektima,2020-12-31,1,,
+314,2,Napraviti formalnu B2K Business case formu sa Cost Benefit podlogom i automatskom kalkulacijom u Excelu na naèin da business user unosi samo inpute (brojke),B2K Business Case forma,2020-12-31,1,,
+315,2,"Kreiranje standardizirane projektne metodologije sa konkretnim template-ovima po fazama i vrstama projektnog plana prema vrstama projekata (IT, Business) sa opcijom primjene JIRE kao službenog PM toola",Project Management templates,2020-12-31,1,,
+316,2,"Edukacija za front-end development i UX financirana od strane zaposlenika
+https://www.udemy.com/course/html-css-javascript-certification-course-for-beginners/
+https://www.udemy.com/course/the-complete-figma-course/",Samostalna edukacija,2020-12-31,2,,
+317,2,"Regular maintenance, upgrade and automation of curve dataset, related analytical data in DWH and extraction procedures according to analytical and curve revision needs",Maintaining/updating and optimising curve data in DWH,2020-12-31,1,,
+318,2,Complete automation of Monday Report and W Report and migration from current reporting tools to QlikSense platform,Monday and W Report automation and QlikSense integration,2020-12-31,1,,
+319,2,Maximum possible automation of Success Fee calculation and development of analytical reports on SSRS platform,Success fee report automation (SSRS),2020-12-31,1,,
+320,2,Learning about the impact of stress and the tools to manage it,Stress management,2020-12-31,2,,
+321,2,"Regular daily and monthly work-performing tasks in due time, according to working schedule (independence, proactive, correctnessm in deatline)",Poslovni cilj,2020-12-30,1,,
+322,2,"Assist in preparing proposition and implementing tracking of undue loans in one file/excel sheet in order to handle them easy and simple. Defining tasks and queues in Arotron for implementing deadlines, reminders and results of completes-to be certain that everything is up to date",Poslovni cilj,2020-12-31,1,,
+323,2,Help Josipa to take over pre-bankruptcysettlements and posting transactions in the Arotron,Poslovni cilj,2020-12-30,1,,
+324,2,"Reading of professional literature and preparing of internal education for at last 3 articles in details from RRIF, TEB, RIP (or presenting education on which employee participated)",Razvojni cilj,2020-12-30,2,,
+325,2,Kreiranje internoj Career-Job counseling usluge koja æe služiti kao pomoæ zaposlenicima pri susretu s tržištem rada.,Career-Job counseling program,2020-09-30,1,,
+326,2,Revidiranje onboarding procesa i izrada kompletne procedure.,Onboarding proces,2020-12-31,1,,
+327,2,Izrada profila poželjnih kandidata za 4 pozicije.,Profil poželjnih kandidata,2020-11-30,1,,
+328,2,Samostalna izrada izvještaja i izrada uputa.,Izvještavanje,2020-11-30,2,,
+329,2,Poboljšanje komunikacijskih vještina temeljem prouèavanja edukativnih materijala.,Komunikacijske vještine,2020-12-31,2,,
+330,2,Unaprijediti vještine oba koordinatora.,Razvoj koordinatorima,2020-12-31,2,,
+331,2,Analiza I unaprjeðenje procesa support tima s ciljem efikasnije naplate I bržeg odgovora na zahtjeve.,Unaprjeðenje procesa support tima,2020-12-31,1,,
+332,2,Optimizacija I preuzimanje Potential Claim-a,Potential Claim,2020-12-31,1,,
+333,2,Rješavanje otvorenih SCB  i optimizacija procesa,SCB,2020-12-31,1,,
+336,2,"Usavršavanje praæenja SLA vendorima Mikrografija, Data Link i Relational kroz JIRA radi brže i transparentnije provjere faktura",Usavršavanje praæenja SLA vendorima,2020-12-31,1,,
+337,2,Edukacija Business Analysis Modeling Skills & Techniques uz samostalno plaæanje od strane zaposlenika,Edukacija,2020-12-31,2,2020-09-29 10:51:48.900000,anja.sa
+338,2,Internal customers review,Internal customers review,2020-12-31,1,,
+339,2,Preparing documentation for initating and initiating legal procceses on real estates,Activate cases in own portfolio,2020-12-31,1,,
+340,2,"Review of daily tasks, Review of initiaties in own portfolio, Monthly 1-1 review",Business review TL,2020-12-31,1,,
+341,2,"Improve prioritisations skills, involve less on non-important tasks, be more efficient",Prioritise & be efficient,2020-12-31,2,,
+342,2,Revidirati postojeæe template dopisa i importirati ih u Arotron,Revidiranje postojeæih template-a dopisa i njihov import u Arotron,2020-12-31,1,,
+343,2,Revidirati postojeæi proces i uskladiti promjene u postupanjima,Optimizacija procesa Review of file (Admin),2020-12-31,1,,
+344,2,Analizirati i sažeti sve izmjene koje su se dogodile u procesima support tima u okolnostima karantene ,Sažetak utjecaja karantene na poslovanje tima,2020-12-31,2,,
+345,2,Unaprijediti vještine kordinatora,Razvoj kordinatora,2020-12-31,2,,
+346,2,Optimizacija procesa temeljem analize task force tima,Optimizacija procesa pošte,2020-10-01,1,,
+347,2,"Analiza, dorada i implementacija postojeæih reporta",Revidiranje postojeæih reporta za izvještaje,2020-12-31,1,,
+348,2,"Analiza, revidiranje i dokumentiranje postojeæih transakcija",Revidiranje postojeæih transakcija u Arotronu,2020-12-31,1,,
+349,2,"Educirati nove djelatnike vezano uz zaprimanje, unos i potvrdu raèuna",Implementacija i edukacija tima za upravljanje raèunima,2020-12-31,1,,
+350,2,"Revidirati sve korištene akcije, faze i implementacijske rezultate u Arotronu","Revidiranje svih akcija, faza i implementacijskih rezultata za support akcije u Arotronu",2020-12-31,1,,
+351,2,Revidirati postojeci proces i uskladiti promjene u postupanjima te prijenti proces na kolege iz postakvizicije,"Optimizacija i prijenos procesa vezanog uz zahtjeve poslodavaca, HZMO i Fine",2020-12-31,1,,
+352,2,Kreirati prirucnik s najcešcim pitanjima i odgovorima za sve procese za savjetnike u Odjelu naplate,Kreiranje prirucnika o procesima unutar support tima za savjetnike u Odjelu naplate,2020-12-31,2,,
+354,2,Kreiranje Feasibility study dokumentacije koja æe biti standardni template ,Feasibility study,2020-12-31,1,,
+355,2,"Kreiranje dokumentiranog procesa revizije Cost Benefit analize za sve projekte u B2K, kao standardne aktivnosti u svim IT projektima",Proces revizije Cost Benefit analize,2020-12-31,1,,
+356,2,"Pružiti support u kreiranju standardizirane projektne metodologije sa konkretnim template-ovima po fazama i vrstama projektnog plana prema vrstama projekata (IT, Business) sa opcijom primjene JIRE kao službenog PM toola",Support projektnoj metodologiji,2020-12-31,1,,
+357,2,Online edukacija za business finance sa fokusom na business case financirana od strane zaposlenika,Business finance edukacija,2020-12-31,2,,
+358,2,Akciju aktivacije riješiti u 7 radnih dana (bez odgode vremena s fazom),Smanjivanje vremenskog perioda rješavanja aktivacije,2020-12-31,1,,
+359,2,Revidirati postojeæi proces i uskladiti promjene u postupanjima,Optimizacija procesa s vanjskim odvjetnicima,2020-12-31,1,,
+360,2,Revidirati postojeæi proces i uskladiti promjene u postupanjima,Optimizacija procesa za prigovore,2020-12-31,1,,
+361,2,Analizirati i pospremiti postojeæu dokumentaciju na pripadajuæe lokacije.,Analiziranje dokumentacije iz Korininog ureda (GDPR problem),2020-12-31,1,,
+362,2,"Mentoriranjem i podrškom u projektima žele se jaèati komunikacijske vještine, koordinacijske aktivnosti, asertivni stil komunikacije i motiviranje tima.",Mentorstvo i podrška svim kolegama unutar tima na projektima,2020-12-31,2,,
+363,2,Održati radionicu i upoznati odjele s  radom support tima.,"Radionica za sve odjele (BO, RD, AM) vezana uz procese support tima",2020-12-31,2,,
+364,2,Revidirati postojeæi proces i uskladiti promjene u postupanjima,Optimizacija procesa za preminule klijente,2020-12-31,1,,
+365,2,Revidirati postojeæi proces i uskladiti promjene u postupanjima te prijenti proces na kolege iz postakvizicije,"Optimizacija i prijenos procesa vezanog uz zahtjeve poslodavaca, HZMO i Fine",2020-12-31,1,,
+366,2,Analizirati predmete sa statusom Potential Claim i zatvoriti ih s pripadajucim rezultatima.,Cišcenje Potential Claim Q,2020-12-31,1,,
+367,2,U potpunosti ovladati Complaint procesom,Savladavanje Complaint procesa,2020-12-31,2,,
+368,2,Revidirati postojeci proces i uskladiti promjene u postupanjima,Optimizacija procesa za prigovore,2020-12-31,1,,
+369,2,Akciju aktivacije riješiti u 7 radnih dana (bez odgode vremena s fazom),Smanjivanje vremenskog perioda rješavanja aktivacije,2020-12-31,1,,
+370,2,"Održati radionicu o GDPR-u I Data Breachu za odjele RD, BO i AM",Radionica o GDPR-u i Data Breachu,2020-12-31,1,,
+371,2,Akciju aktivacije riješiti u 7 radnih dana (bez odgode vremena s fazom),Smanjivanje vremenskog perioda rješavanja aktivacije,2020-12-31,2,,
+372,2,Revidirati postojeæe template dopisa i importirati ih u Arotron,Revidiranje postojeæih template-a dopisa i njihov import u Arotron,2020-12-31,1,,
+373,2,Revidirati postojeæi proces i uskladiti promjene u postupanjima,Optimizacija procesa Review of file (Admin),2020-12-31,1,,
+374,2,Kreirati priruènik s najèešæim pitanjima i odgovorima za sve procese za savjetnike u Odjelu naplate,Kreiranje priruènika o procesima unutar support tima za savjetnike u Odjelu naplate,2020-12-31,2,,
+375,2,Akciju aktivacije riješiti u 7 radnih dana (bez odgode vremena s fazom),Smanjivanje vremenskog perioda rješavanja aktivacije,2020-12-31,1,,
+376,2,Sudjelovanje u pisanju procedura za unos i evidenciju troškova,Osobni cilj,2020-12-31,1,,
+377,2,Organizacija foldera,Osobni cilj,2020-12-31,1,,
+378,2,Razvoj plana za implementaciju sustava mentoringa za Back Office ,Osobni cilj,2020-12-31,2,,
+379,2,Improving IT resolve times for problem reports considering end user feedback and overall IT FTE numbers,Improving IT resolve times for problem reports,2020-12-31,1,,
+380,2,Establish PM framework of IT PM team with PM documentation and methodology in place,Establish PM framework of IT PM team,2020-12-31,1,,
+381,2,Create IT staff backups for Senior positions in order for each position to have at least two IT FTEs ready to perform the tasks given,Create IT staff backups for Senior positions,2020-12-31,1,,
+382,2,Develop further internal IT staff capabilities in order for the identified IT staff memember to be ready for position switch,Develop further internal IT staff capabilities,2020-12-31,2,,
+383,2,Revidirati postojeæe template dopisa i importirati ih u Arotron,Revidiranje postojeæih template-a dopisa i njihov import u Arotron,2020-12-31,1,,
+384,2,Revidirati postojeæi proces i uskladiti promjene u postupanjima,Optimizacija procesa opoziva kolaterala,2020-12-31,1,,
+385,2,Analizirati i sažeti sve izmjene koje su se dogodile u procesima support tima u okolnostima ,Sažetak utjecaja karantene na poslovanje tima,2020-12-31,2,,
+386,2,Akciju aktivacije riješiti u 7 radnih dana (bez odgode vremena s fazom),Smanjivanje vremenskog perioda rješavanja aktivacije,2020-12-31,1,,
+390,2,Održati radionicu i upoznati tim s naèinom voðenja klijenata u AD. ,Radionica o voðenju klijenata iz pozicije Asset Managera,2020-12-31,1,,
+391,2,Revidirati postojeæi proces i uskladiti promjene u postupanjima,Optimizacija procesa HZMO check,2020-12-31,1,,
+392,2,U potpunosti ovladati procesima CDP tima (naglasak na support dio),Savladavanje svih procesa unutar CDP tima,2020-12-31,2,,
+394,2,Održati radionicu i upoznati tim s naèinom voðenja klijenata u AD. ,Radionica o voðenju klijenata iz pozicije Asset Managera,2020-12-31,1,,
+395,2,Revidirati postojeæi proces i uskladiti promjene u postupanjima,Optimizacija procesa HZMO check,2020-12-31,1,,
+396,2,U potpunosti ovladati procesima CDP tima (naglasak na support dio),Savladavanje svih procesa unutar CDP tima,2020-12-31,2,,
+398,2,The goal of IT CAPEX optimization is to minimize buying of new IT equpment and to maximize reuse of the current equipment as much as we can.,IT CAPEX Optimization,2020-12-31,1,,
+399,2,"As requested on workshop with Lukasz Wrona and B2K compliance department, mitigate three security risks for databases and applications identified in the IT Security anylisys document.",IT Security risks mitigation,2020-12-31,1,,
+400,2,"Maintain ""time to resolution"" for problem report tickets category within the IT team.","Maintain ""time to resolution"" for problem report tickets",2020-12-31,1,,
+401,2,"Increase leadership skills through education and cocahing with my supperior and on a topic ""Feedback as a leadership tool""",Internal education,2020-12-31,2,,
+402,2,Dynamic automation of report - tables and graphic report in Qlik -  coordination with colleagues from DWH/Controlling,"Solaris monthly co-investment meeting report 
+automation (SSRS or Qlik)",2020-12-31,1,,
+403,2,Mapping of base and automation of Weekly/Quatrely reports into Qlik in coordination with colleagues from DWH/Controlling,Coordination of automation of weekly/quarterly reports into Qlik,2020-12-31,1,,
+404,2,Creation and mapping of transactional history table from all Solaris accounts and daily import into DWH - base for other reports,Creation of transactional history table from Solaris and daily import into DWH incl mapping,2020-12-31,1,,
+405,2,Learning about the impact of stress and the tools to manage it,Stress management,2020-12-31,2,,
+406,2,Forming a query for the complience department (all BBP tasks),Complience query,2020-12-31,1,,
+408,2,"Kvaliteta rada - izrada desktop, drive by i procjembenih elaborata za potrebe sudskih postupaka","Kvaliteta odraðenih procjena, struènih mišljenja",2020-12-31,1,,
+409,2,Maksimalan broj radnih dana potreban za odraðivanje jednog predmeta procjene/mišljenja prema vrsti / složenosti objekata nekretnina,"Brzina izrade procjena, struènih mišljenja",2020-12-31,1,,
+410,2,"Kvaliteta rada - ocjena kolega unutar odjela, Prokurista i Direktora društva B2 Realestate doo",Kvaliteta komunikacije i timskog rada,2020-12-31,1,,
+411,2,"Unaprjeðivanje templatea za izradu procjena i struènih mišljenja. Dijeljenje najboljih praksi s kolegama, ukazivati na nedostatke uradaka i poslovnih procesa.","Predlaganje poboljšavanja procesa, template-a, razmjena znanja i iskustva s kolegama",2020-12-31,2,,
+412,2,"Unaprjeðivanje struènih znanja, praæenje struène literature i seminara iz podruèja nekretnina. Dijeljenje struènih praksi s kolegama, ukazivati na nedostatke uradaka.",Struèno usavršavanje znanja i zakonske regulative iz podruèja nekretnina,2020-12-31,2,,
+414,2,"Kvaliteta rada - izrada desktop, driveby i procjembenih elaborata za potrebe sudskih postupaka","Kvaliteta odraðenih procjena, struènih mišljenja",2020-12-31,1,,
+415,2,"Maksimalan broj radnih dana potreban za odraðivanje jednog predmeta procjene / mišljenja, prema vrsti / složenosti nekretnina","Brzina izrade procjena, struènih mišljenja",2020-12-31,1,,
+423,2,Review of the changes related to the new procedure (Closing and capitalization),Procedure analysis,2020-12-31,1,,
+424,2,Workshop topic: How to be more efficient in daily bussines (general tips),Time management workshop,2020-12-31,2,,
+425,2,Creating tracking report for loans where partial Agreement for penalty interest write-off exsist,Agreement Tracking Report,2020-12-31,1,,
+427,2,"Kvaliteta komunikacije i timskog rada  - ocjena kolega unutar odjela, Prokurista i Direktora društva B2 Realestate doo",Kvaliteta komunikacije i timskog rada ,2020-12-31,1,,
+428,2,"Unaprijeðivanje templatea za izradu procjena i struènih mišljenja.
+Dijeljenje najboljih praksi s kolegama, ukazivati na nedostatke uradaka i poslovnih procesa.","Predlaganje poboljšanja procesa, templatea, znanja ",2020-12-31,2,,
+429,2,"Unaprijeðivanje struènih znanja, praæenje struène literature i seminara iz podruèja nekretnina. 
+Dijeljenje struènih praksi s kolegama, ukazivati na nedostatke uradaka.",Struèno usavršavanje znanja i zakonske regulative,2020-12-31,2,,
+430,2,Proficiency in Qlik sense tool and automation of existing excel reports into Qlik (own and cooperating with colleagues),Qlik sense,2020-12-31,1,,
+431,2,Creating and automation of Promises reports and creating the historical Promises tables in DWH with all the data cleaned and checked,Promises historical database in DWH (incl. Data cleaning),2020-12-31,1,,
+432,2,DWH curve import and reporting knowledge transfer from Blaško,DWH curve,2020-12-31,1,,
+433,2,Learning about the impact of stress and the tools to manage it,Stress Management,2020-12-31,2,,
+434,2,"Marketinške aktivnosti za preuzete nekretnine svih povezanih društava te objava oglasa za preuzete nekretnine, potraživanja i dražbe. ",Marketing,2020-12-31,1,,
+435,2,"Aktivnosti u prodaji nekretnina: obilazak i prezentacija nekretnina s potencijalnim kupcima, pregovori oko prodaje, obrada prodajne dokumentacije.",Prodaja nekretnina,2020-12-31,1,,
+436,2,Sudjelovanje u izradi REO Module-a i svladavanje istog u aplikaciji Arotron.,Izrada i svladavanje REO Module-a unutar Arotrona,2020-12-31,2,,
+437,2,"Aktivnosti oko održavanja, marketinga i prodajnih aktivnosti za jahtu ""LIR"".","Jahta ""LIR""",2020-12-31,1,,
+438,2,"Analiza i izrada mišljenja o utrživosti nekretnina u kolateralu za potraživanja i dražbe.
+Izvještavanje prodajnih rezultata i tijeka prodaje, izvještavanje o marketinškim aktivnostima i rezultatima.",Mišljenja za WO odjel i Izvještavanja,2020-12-31,1,,
+439,2,"Kvaliteta rada - izrada desktop, drive by i procjembenih elaborata za potrebe sudskih postupaka","Kvaliteta odraðenih procjena, struènih mišljenja",2020-12-03,1,,
+440,2,Maksimalan broj radnih dana potreban za odraðivanje jednosg predmeta procjene/mišljenja prema vrsti/složenosti objekata nekretnina,"brzina izrade procjena, struènih mišljenja",2020-12-31,1,,
+441,2,"Kvaliteta rada - ocjena kolega unutar odjela, Prokurista i Direktora društva B2 Realestate d.o.o.",Kvaliteta komunikacije i timskog rada,2020-12-31,1,,
+442,2,"Unaprjeðivanje template-a za izradu procjena i struènih mišljenja. Dijeljenje najboljih praksi s kolegama, ukazivati na nedostatke uradaka i poslovnih procesa","poboljšanje procesa, template-a, razmjena znanja i iskustva",2020-12-31,2,,
+443,2,Optimization WF  Incoming post,Individual Result/KPI,2020-12-31,1,,
+444,2,List and elaboration of all tasks for Incoming post,Individual Result/KPI,2020-12-31,1,,
+445,2,Mentoring in process optimization WF ,Individual Result/KPI,2020-12-31,2,,
+446,2,"Riješiti cjelokupni backlog fizièkih rješenja jednostavnog postupka steèaja potrošaèa, cjelokupni backlog HPB kutija pošte i  provoðenje internih edukacija",Poslovni strateški XXX,2020-12-31,1,,
+447,2,"Aktivnosti vezane za prodaju nekretnina: obilazak i prezentacija nekretnina s potencijalnim kupcima, obrada podataka i priprema dokumentacije. ",Prodaja nekretnina ,2020-12-31,1,,
+448,2,"Uspostava poslovnih procesa izmeðu odjelakoji blisko suraðuju u procesu prodaje nekretine, smanjenje operativnih troškova. ",Optimizacija posovnih procesa,2020-12-31,1,,
+449,2,Aktivnosti oko rješavanja problematike vezano za posjed nekretnina koje su preuzete sa posjednicima ili bivšim vlasnicima koji nisu predali nekretninu mirnim putem. ,rješavanje problema posjeda sa posjednicima nekretnina u vlasništvu ,2020-12-31,1,,
+450,2,Izrada info materijala za prodaju nekretninna koje u preuzete te oglašavanje i praæenje svih oglasa objavljenih na web portalima. ,Izrada info materijala za prodaju nekretninna te oglašavanje,2020-12-31,1,,
+451,2,Optimization WF  Return of overpayment ,Osobni cilj,2020-12-31,1,,
+452,2,Folder organization ,Osobni cilj,2020-12-31,1,,
+453,2,AML-prezentacija TL/HD,Osobni cilj,2020-12-31,2,,
+454,2,Riješiti povrate preplate iz prethodnih godina,Overpayment OC,2020-12-31,1,,
+455,2,"Prikupljanje dokumentacije, organiziranje termina preuzimanja/primopredaje, utvrðivanje stanja i razgled objekta, ispunjavanje primopredajnog zapisnika, uvoðenje FM-a na objekt i popratne primarne radnje vezane uz promjenu brava i sl. ",Preuzimanje i primopredaja nekretnina ,2020-12-31,1,,
+456,2,Prikupljanje i analiza (provjera) kompletnih režijskih troškova. Izrada tablice prefakture troška po kljuèu odreðenim ugovorom o zakupu. ,Prefakture troškova ,2020-12-31,1,,
+457,2,Ishoðenje ponuda i provjera radnih naloga zatraženih od strane FM-a ili direktno našeg odjela. Ishoðeno odobrenje istih.   ,Provjera i odobravanje radnih naloga ,2020-12-31,1,,
+458,2,Dodjeljivanje troška i odobrenje raèuna kroz facility rolu u DMS-u. ,"Upravljanje raèunima DMS, te B2RE.",2020-12-31,2,,
+459,2,"Regular daily and monthly work - performing task in due time,according to working schedule ( correctness, in deadling )",Poslovni ,2020-12-31,1,,
+460,2,Balance confirmation (IOS) with our  suppliers and buyers / preparation for audit B2K,Poslovni cilj,2020-12-31,1,,
+461,2,"Reading of professional literature and preparing of internal education for at least 3 articles in details from RRIF, TEB, 
+RIP (or presenting education on which employee participated) ",Razvoji cilj,2020-12-31,2,,
+462,2,"Improvement of process of handling the assets and small inventory - labelling, stocktaking...  (coordination with IT department)",Poslovni cilj,2020-12-31,1,,
+463,2,Ishoðenje krovne police. Reguliranje popisa nekretnina i graðevinske vrijednosti sukladno krovnoj polici na mjeseènoj bazi. Praæenje okvira.,Upravljanje osiguranjem imovine ,2020-12-31,1,,
+464,2,"Analiza i praæenje troškova s ciljem optimizacije istih. (ponude radova, režijski troškovi i izvanredni troškovi - hitne intervencije)",Optimizacija troškova ,2020-12-31,1,,
+465,2,"Marketinške aktivnosti u vezi prodaje/zakupa preuzetih nekretnina za sva povezana društva. Objava oglasa na web portalu, tisku za preuzete nekretnine, potraživanje i dražbe",Marketing ,2020-12-31,1,,
+466,2,"Prodaja preuzetih nekretnina: pregovori, pokazivanje nekretnina, primopredaja nekretnina, prikupljanje dokumentacije, kooridnacija sa pravnim odjelom, priprema odluka za kreditni odbor ",Prodajne aktivnosti,2020-12-31,1,,
+467,2,"Voðenje evidencije zk. statusa nekretnina, koordinacija sa pravnim odjelom, piprema i ažuriranje evidencije statusa posjeda, neposredna komunikacija sa posjednicima ",Evidencije: Zemljišnoknjižni status i posjedi nekretnina ,2020-12-31,1,,
+468,2,Korištenje Reo modula Arotrona,Reo modul u Arotronu ,2020-12-31,2,,
+469,2,"Pipeline (realizirane transakcije, planovi, potpisani ugovori...)  (mjeseèno, kvartalno, na zahtjev), ažuriranje i voðenje baze podataka nekretnina ",Reporting (Solaris) ,2020-12-31,1,,
+471,2,"Aktivnosti vezane za prodaju nekretnina : obilazak i prezentacija nekretnina s potencijalnim kupcima , obrada podataka i priprema dokumentacije.",Prodaja nekretnina ,2020-12-31,1,,
+472,2,"Uspostava poslovnih procesa izmedu odjela koji blisko suraduju u procesu prodaje nekretnine , smanjenje operativnih troškova.",Optimizacija poslovnih procesa ,2020-12-31,1,,
+473,2,Aktivnosti oko rješavanja probelmatike vezano za posjed nekretnina koje su preuzete sa posjednicmai ili bivšim vlasnicima koji nisu predali nekretninu mirnim putem. ,Rješavanje problema posjeda sa posjednicima nekretnina u vlasništvu,2020-12-31,1,,
+474,2,Izrada info materijala za prodaju nekretnina koje su preuzete te oglašavanje i pracenje svih oglasa objavljenih na web portalima.,Izrada info materijala za prodaju nekretnina te oglašavanje,2020-12-31,1,,
+475,2,Korištenje Reo modula Arotrona.,Reo modul u Arotronu,2020-12-31,2,,
+476,2,"Recovered amount in MKN:
+Description: recovered amount from 01.07.-31.12.2020. for Asset management dpt",Timski cilj,2020-12-31,1,,
+477,2,"Successful agreements  :
+Description: Percentage of successfully concluded and realized / in realization agreements with debtors, guarantors and pledge debtors",Timski cilj,2020-12-31,1,,
+478,2,"
+Developing a Team Leader in Corporate Team in Asset Management dpt: 
+Proposing a candidate for Team Leader position in Corporate Team in Asset Managment ",Razvojni cilj,2020-12-31,2,,
+479,2,"Improving sale process for collaterals: creating process for sale of collaterals in court auctions with B2 RE
+1) Implementing guideline for repo. RE tog. with Head RE
+2) Create check table (tasks, responsibilities, deadlines)
+3) Reports to MB",Poslovni / strateški cilj,2020-12-31,1,,
+480,2,"Improving communication and relation with teams:
+- SME and Retail secured teams in Asset Management dpt
+- Need for the leader of legal advisors?
+- (Un)necessary reports, tables...",Razvojni cilj,2020-12-31,2,,
+481,2,korištenje Reo modula u Arotronu,Reo Modul u arotronu,2020-12-31,2,,
+482,2,"Regular daily and monthly work - performing tasks in due time, according to working schedule (independence, pro-active, correctness, in deadline)",Poslovni cilj,2020-12-31,1,,
+483,2,"Improvement of process of refunding the money to our clients (coordination with BO - reduce process, to avoid double inserting the same dana, automatic template from Arotron)",Poslovni cilj,2020-12-31,1,,
+484,2,"Improvement of process of travel orders , cooperation with Ivana Dubravac, transferring knowledge and project participation",Poslovni cilj,2020-12-31,1,,
+485,2,"Reading of professional literature and preparing of internal education for at least 3 articles in details from RRIF, TEB, 
+RIP (or presenting education on which employee participated) 
+",Razvojni cilj,2020-12-31,2,,
+486,2,"Regular daily and monthly work - performing tasks in due time, according to working schedule (independence, pro-active, correctness, in deadline)",Poslovni cilj,2020-12-31,1,,
+487,2,"Improvement of process of travel orders , cooperation with Ivana Dubravac, transferring knowledge and project participation",Poslovni cilj,2020-12-31,1,,
+488,2,"Reading of professional literature and preparing of internal education for at least 3 articles in details from RRIF, TEB, 
+RIP (or presenting education on which employee participated) 
+",Razvojni cilj,2020-12-31,2,,
+489,2,"""Organization of archiving hard copy documentation in files and labelling of files- taking care that everything is ok
+Preparing files for archiving- checking documentation if everything is scanned 2016-2017""    
+",Poslovni cilj,2020-12-31,1,,
+490,2,Naplaæeni iznos (naplata) u periodu od 01.07.-31.12.2020. za SME Team,Timski cilj- naplaæeni iznos,2020-12-31,1,,
+491,2,"Uspješno zakljuèeni Sporazumi: postotak uspješno zakljuèenih i realiziranih sporazuma / sporazuma koji su još uvijek u realizaciji sa dužnicima, jamcima, založnim dužnicima
+
+",Timski cilj- uspješno zakljuèeni Sporazumi,2020-12-31,1,,
+492,2,"Prikupljanje dokumentacije, organiziranje termina preuzimanja/primopredaje, utvrdivanje stanja i rezgled objekta, ispunjavanje primopredajnog zapisnika, uvodenje FM-a na objekt i popratne primarne radnje vezane uz promjenu brava i sl.",Preuzimanje i primopredaja nekretnina,2020-12-31,1,,
+493,2,Prikupljanje i analiza (provjera) kompletnih režijskih troškova. Izrada tablice prefakture troška po kljucu odredenim ugovorom o zakupu.,Prefakture troškova (SOLARIS),2020-12-31,1,,
+494,2,Ishodenje ponuda i provjera radnih naloga zatraženih od strane FM-a. Ishodeno odobrenje istih..,Provjera i odobravanje radnih naloga,2020-12-31,1,,
+495,2,Ovladavanje upravljanja racunima kroz DMS i korištenje aplikacije AroTRON,Upravljanje racunima (DMS) i korištenje aplikacije AroTRON (REOs),2020-12-31,2,,
+496,2,Odaziv na hitne intervencije i organizacija sanacije štete i potrebnih radova,Odaziv na hitne intervencije,2020-12-31,1,,
+497,2,"Analiza i pracenje troškova s ciljem optimizacije istih (ponude radova, režijski troškovi i izvanredni troškovi - hitne intervencije)",Optimizacija troškova,2020-12-31,1,,
+498,2,"
+Recovered amount from 01.07.-31.12.2020. for Corporate Team",Recovered amount in MKN,2020-12-31,1,,
+499,2,"Percentage of successfully concluded and realized /in realization agreements with debtors, guarantors and pledge debtors",Successful agreements,2020-12-31,1,,
+500,2,Participate in writing the procedures for Matching Payments and Overpayment,Personal,2020-12-31,1,,
+501,2,List and elaboration of all tasks for payment and overpayment,Personal,2020-12-31,1,,
+502,2, Make a plan how to improve Matching payment process,Personal,2020-12-31,2,,
+503,2,Rješavanje povrata preplate iz prethodnih godina ,Overpayment OC,2020-12-31,1,,
+504,2,Optimization WF Costs,Osobni cilj,2020-12-31,1,,
+505,2,Forming a query for other departments,Osobni cilj,2020-12-31,1,,
+506,2,Workshop excel education for BBP team ,Osobni cilj,2020-12-31,2,,
+507,2,"educirati nove djelatnike vezano uz zaprimanje, unos i potvrdu raèuna",Implementacija i edukacija tima za upravljanje raèunima,2020-12-31,1,,
+508,2,"Iznos naplate in MKN:
+Opis: iznos naplate od 01.07.-31.12.2020. za SME Team",Timski cilj,2020-12-31,1,,
+509,2,"Uspješno zakljuceni sporazumi :
+Opis: postotak uspješno zakljucenih i realiziranih sporazuma / realizirani sporazumi sa dužnicima, jamcima i založnim dužnicima i",Timski cilj,2020-12-31,1,,
+510,2,"Posted of travel orders by subject, document and couse ( cash payment, amount of kilometric/parking etc). Creating transfer for paymant-payout. Adjusted of  
+outstanding items on a date by account-travel orders.",Posting - travel orders,2020-12-31,1,,
+511,2,Recovered amount from 01.07.-31.12.2020. for SME Team,Recovered amount in MKN,2020-12-31,1,,
+512,2,"
+Percentage of successfully concluded and realized / in realization agreements with debtors, guarantors and pledge debtors",Successful agreements ,2020-12-31,1,,
+513,2,"Recovered amount in MKN:
+Description: recovered amount from 01.07.-31.12.2020. for SME Team",Timski cilj,2020-12-31,1,,
+514,2,"Successful agreements  :
+Description: Percentage of successfully concluded and realized / in realization agreements with debtors, guarantors and pledge debtors",Timski cilj,2020-12-31,1,,
+516,2,folder organization in a logical way,poslovni cilj,2020-12-31,1,,
+517,2,Education (WF),osobni cilj,2020-12-31,2,,
+519,2,Participate in writing the procedures for Expedit team,Osobni cilj,2020-12-31,1,,
+520,2,Folder organization in a logical way and prepaid for GDPR brisanje  ,Osobni cilj,2020-12-31,1,,
+521,2,Mentoring ( expedit team general),Osobni cilj,2020-12-31,2,,
+522,2,optimization WF  Incoming post,poslovni cilj,2020-12-31,1,,
+523,2,Forming a query for the complience department,Individual Result/KPI,2020-12-31,1,,
+524,2,Folder organization ,Individual Result/KPI,2020-12-31,1,,
+525,2,Workshop/ topic: How to use e-portali ,Individual Result/KPI,2020-12-31,2,,
+526,2,Optimizacija procesa prema naputku task forca ,Poslovni,2020-08-30,1,,
+527,2,Izrada WF za evidentiranja povratnica na niovu B2,Poslovni,2020-12-31,1,,
+528,2,Optimizacija procesa za Incoming complaint,Poslovni,2020-12-31,1,,
+529,2,Razvoj vještina poslovne komunikacije ,Osobni,2020-12-31,2,,
+530,2,Izrada FM tendera u svrhu pronalaska novog izvoðaèa radi smanjenja troškova po nekretninama,FM Tender - odabir novog povoljnijeg izvoðaèa,2020-12-31,1,,
+531,2,Sudjelovanje u izradi REO Module-a i savladavanje istog u aplikaciji Arorton.,Izrada i savladavanje REO Module-a unutar Arotrona,2020-12-31,2,,
+532,2,U potpunosti ovladati svim funkcionalnostima aplikacije mDocs DMS potrebnim za ažurno upravljanje dokumentacijom i raèunima za preuzete nekretnine,Korištenje aplikacije mDocs DMS,2020-12-31,2,,
+533,2,Kontaktirati sve gradove i opæine u kojima se nalaze prazne preuzete nekretnine i zatražiti umanjenje komunalne naknade za 50% zbog nekorištenja nekretnina i na taj naèin smanjiti troškove tvrtke.,Umanjenje komunalnih troškova po nekretninama,2020-12-31,1,,
+534,2,"Kvaliteta izrade struènih mišljenja za kolaterale (nekretnine) za Asset Managere u svrhu donošenja odluke o daljnjem postupanju (dražbe, steèaj, i dr.)",Kvaliteta izrade struènih mišljenja za kolaterale (nekretnine),2020-12-31,1,,
+535,2,Maksimalno vrijeme potrebno za pripremu struènog mišljenja u ovisnosti od kompleksnosti kolaterala (nekretnine) u odnosu na vrijeme slanja upita,Brzina izrade struènih mišljenja za kolaterale (nekretnine),2020-12-31,1,,
+536,2," Prikupljanje, analiza i prezentacija i sudjelovanje u odabiru najbolje ponude za certificiranje u pogledu cijene, roka izrade te ostalih relevantnih elemenata ponude te praæenje realizacije i plaæanja usluge kao i arhiviranja energetskog certifikata.",Energetsko certificiranje preuzetih nekretnina ,2020-12-31,1,,
+537,2,U potpunosti ovladati svim funkcionalnostima mDocs DMS aplikacije potrebnim za ažurno upravljanje dokumentacijom i raèunima za preuzete nekretnine ,Korištenje mDocs DMS aplikacije,2020-12-31,2,,
+538,2,"Obrada i odobravanje svih režijskih troškova koji se odnose na preuzete nekretnine u vlasništvu B2k, B2p i B2 RE kroz DMS sustav",DMS upravljanje dokumentacijom i raèunima ze REO-se,2020-12-31,1,,
+539,2,U potpunosti ovladati svim funkcionalnostima REO modula u AroTRON aplikaciji radi korištenja za daljnje potrebe,Korištenje REO modul u AroTRON-u,2020-12-31,2,,
+540,2,"Riješiti cjelokupni backlog fizièkih rješenja jednostavnog postupka steèaja potrošaèa, cjelokupni backlog HPB kutija pošte i  provoðenje internih edukacija","Riješiti cjelokupni backlog fizièkih rj. JSP, HPB i edukacije",2020-12-31,1,,
+541,2,Naplata od 1.7.-31.12.2020. za corporate tim ,Timski cilj,2020-12-31,1,,
+542,2,"
+ Postotak uspješno sklopljenih sporazuma/nagodbi s klijentima",Timski cilj,2020-12-31,1,,
+543,2,"Pokretanje pravnih postupaka na svim kolateralima gdje istih nema u predmetima u Priority 1,2,3 (pokretanje postupka podrazumjeva slanje prijedlog za ovrhu na sud/kod j.b)",Osobni cilj - Pokretanje pravnih postupaka,2020-12-31,1,,
+544,2,"Obilazak nekretnine / suda za predmete u Priority 1 ili 2 (ako su svi u 1 pokriveni), provjera stanja nekretnina na terenu, traženje dodatnih elemenata koji se mogu koristiti u sudskim postupcima; opširan report u Arotronu o nalazu. U sluèaju nepovoljne situacije zbog COVID-19 krize, revizija KPI nakon 31.10.2020
+",Osobni cilj - Field visit / Court visit,2020-12-31,1,,
+545,2,"Priprema materijala i prezentacije, održavanje edukacije Odjelu upravljanja imovinom (2 grupe miješanih timova), priprema ankete za feedback",Osobni cilj - Održati edukaciju na temu novele ZPP i prekida postupaka vezano za COVID-19 ,2020-12-31,2,,
+546,2,"Riješiti cjelokupni backlog pošte za vanjske odvjetnike,  odraditi unos HPB skeniranih povratnica u sustav i arhiviranje te provesti interne edukacije",poslovni strateški cilj,2020-12-31,1,,
+547,2,"Recovered amount in MKN:
+Description: recovered amount from 01.07.-31.12.2020. for SME Team
+",Recovered amount:,2020-12-31,1,,
+548,2,"Successful agreements  :
+Description: Percentage of successfully concluded and realized / in realization agreements with debtors, guarantors and pledge debtors
+",Successful agreements,2020-12-31,1,,
+549,2,Participate in writing the procedure for Incoming post ,Poslovni ,2020-12-31,1,,
+550,2,list and elaboration of all tasks for Incoming post,Poslovni ,2020-12-31,1,,
+551,2,Mentoring (Incoming post general),Osobni ,2020-12-31,2,,
+552,2,"Riješiti cjelokupni backlog pošte za vanjske odvjetnike,  odraditi unos HPB skeniranih povratnica u sustav i arhiviranje te provesti interne edukacije. ",Poslovni/ strateški ,2020-12-31,1,,
+553,2,"Regular daily and monthly work - performing tasks in due time, according to working schedule (independence, pro-active, correctness, in deadline)",Poslovni cilj,2020-12-31,1,,
+554,2,Take over pre-bankruptcy settlements and posting transactions in the arotron,Poslovni cilj,2020-12-31,1,,
+555,2,"Assist in record of interest, allocation of un-due on due debt segments according to resolutions/contracts",Poslovni cilj,2020-12-30,1,,
+556,2,"Reading of professional literature and preparing of internal education for at least 3 articles in details from RRIF, TEB, RIP (or presenting education on which employee participated) ",Razvojni cilj,2020-12-31,2,,
+557,2,list and elaboration of all tasks for Incoming post,Osobni cilj,2020-12-31,1,,
+558,2,Proposal for optimization incoming mail on expedit,Osobni cilj,2020-12-31,1,,
+559,2,Presentation/ Topic: Evolution of mail B2,Osobni cilj,2020-12-31,2,,
+560,2,"Riješit cjelokupni backlog pošte za corporate predmete, odraditi backlog svih povratnica (razdoblje korone) te poèeti sa unosom povratnica na dnevnoj razini ",Strateški cilj ,2020-12-31,1,,
+561,2,Naplaæeni iznos (naplata) u periodu od 01.07.-31.12.2020. za Retail Team,Naplata u MKN,2020-12-31,1,,
+562,2,"Uspješno zakljuèeni Sporazumi: postotak uspješno zakljuèenih i realiziranih sporazuma / sporazuma koji su još uvijek u realizaciji sa dužnicima, jamcima, založnim dužnicima",Uspješno zakljuèeni sporazumi ,2020-12-31,1,,
+563,2,tekuæi/redovan dnevni i mjeseèni posao (obavljanje zadataka u dogovorenom roku),Poslovni cilj,2020-12-31,1,,
+564,2,"priprema procesa sakupljanja/spremanja/arhiviranja Ugovora na razini cijele kompanije - postaviti share folder, skupiti Ugovore, napravili listu Ugovora u Excel verziji sa svim podacima, skenirati Ugovore, dopustiti pristup folderu headovima i zaposlenicima kojima su Ugovori potrebni",Poslovni cilj,2020-12-31,1,,
+565,2,priprema novog procesa za sakupljanje alokacije radnog vremena (koordinacija s IT odjelom),Poslovni cilj,2020-12-31,1,,
+566,2,"èitanje odgovarajuæe literature (TEB, Rrif i RIP) i priprema interne edukacije od minimalno 3 èlanka i njezino prezentiranje ostalim kolegama u odjelu",Razvojni cilj,2020-12-31,2,,
+567,2,"Riješiti cjelokupni backlog fizièkih rješenja jednostavnog postupka steèaja potrošaèa, cjelokupni backlog HPB kutija pošte i  provoðenje internih edukacija",Strateški cilj,2020-12-31,1,,
+568,2,"Riješit cjelokupni backlog pošte za corporate predmete, odraditi backlog svih povratnica (razdoblje korone) te poèeti sa unosom povratnica na dnevnoj razini ",Strateški cilj,2020-12-31,1,,
+569,2,Optimization WF  Expedit,Osobni cilj,2020-12-31,1,,
+570,2,Forming a query for the complience department,Osobni cilj,2020-12-31,1,,
+571,2,Buddy for new/old employees and students,Osobni cilj,2020-12-31,2,,
+572,2,"Sukladno traženju Grupe, na mjeseènoj bazi je potrebno napraviti reporting izvještaj za sve preuzete nekretnine u vlasništvu B2K, B2P i B2RE sa svim traženim podacima o nekretninama",Reporting REOs prema Grupi,2020-12-31,1,,
+573,2,"Obrada i odobravanja svih režijskih troškova koji se odnose na preuzete nekretnine u vlasništvu B2K, B2P i B2RE kroz DMS sustav",DMS upravljanje dokumentacijom i raèunima za REOse,2020-12-31,1,,
+574,2,"Recovered amount in MKN:
+Description: recovered amount from 01.07.-31.12.2020. for Retail Secured Team
+",Timski cilj Recovered amount in MKN,2020-12-31,1,,
+575,2,"Successful agreements  :
+Description: Percentage of successfully concluded and realized / in realization agreements with debtors, guarantors and pledge debtors
+",Timski cilj Successful agreements  ,2020-12-31,1,,
+576,2,"Eksternalizacija u vanjske odvjetnièke urede obuhvaæa:
+1. Kriterije za eksternalizaciju (dodjela predmeta, povlaæenje predmeta, izvještaj praæenja rada vanjskih odvjetnièkih ureda i na kraju uputu za externalizaciju)
+2. Suradnja sa vanjskim odvjetnièkim uredima ( po osiguranim i neosiguranim kreditima) Cilj je uspostaviti proces rada vanjskih odvjetnièkih ureda bez podrške internih pravnika i razviti njihovu komunikaciju sa svim sudionicima procesa (CM, raèunovodstvo, LM itd..) te praæenje da je proces uspješno implementiran
+3. Modul odvjentièkih ureda - analiza postojeæeg stanja (koji su problemi/nedostatci), prijedlozi za poboljšanje, rješenje u vidu prijedloga i koraka koji trebaju biti poduzeti",Eksternalizacija - Vanjski odvjetnièki uredi,2020-12-31,1,,
+577,2,"Cilj obuhvaæa osobni obilazak nekretnine/suda za predmete u Priority 1 (Field visit: gdje posljednjih 6 mjeseci nije obavljen isti ili je obavljen od strane drugog CM-a/LM-
+- u sluèaju nepovoljne situacije uzrokovane virusom COVID-19, revizija KPI-a nakon 3 mjeseca",Field visit/Court visit_VOL2,2020-12-31,2,,
+578,2,"Cilj obuhvaæa:
+pokretanje pravnih postupaka na svim kolateralima gdje istih nema u predmetima u Priority 1,2,3 (pokretanje postupka podrazumjeva slanje prijedlog za ovrhu na sud/kod j.b)","Pokretanje pravnih postupaka u Priority 1,2,3",2020-12-31,2,,
+579,2,"Priprema materijala i prezentacije, održavanje edukacije Odjelu upravljanja imovinom (2 grupe miješanih timova), priprema ankete za feedback",Edukacija na temu: Debt to Asset ,2020-12-31,2,,
+580,2,"Personal development into team player:
+a) positive attitude toward colleagues (team and company)
+b) accepting and respecting differences 
+c) open communication (professional level, positive approach, reaction control)
+d) support and encouragement
+Internal discussions (HR, Head AM, literature)",Personal development: team player,2020-12-31,2,,
+581,2,Cilj obuhvaæa izradu te prezetaciju Case study-a zakljuèno sa 31/12/2020,Case study,2020-12-31,2,,
+582,2,Cilj obuhvaæa objavu prodaje potraživanja na web stranici B2 Nekretnine za predmete iz Priority 1 (ak je nedovoljan broj grupa u Priority 1 uzeti Priority 2 pa 3),Oglašavanje prodaje potraživanja na B2 Nekretnine,2020-12-31,1,,
+583,2,Cilj obuhvaæa poboljšanje prezetacijskih vještina (edukacija HR + samorazvoj),Prezentacijske vještine (CC2/Strategy),2020-12-31,2,,
+584,2,"Recovered amount in MKN:
+Description: recovered amount from 01.07.-31.12.2020. for SME Team
+",Recovered amount,2020-12-31,1,,
+585,2,"Successful agreements  :
+Description: Percentage of successfully concluded and realized / in realization agreements with debtors, guarantors and pledge debtors
+",Successful agreements  ,2020-12-31,1,,
+586,2,"Eksternalizacija u vanjske odvjetnièke urede obuhvaæa:
+1. Kriterije za eksternalizaciju (dodjela predmeta, povlaæenje predmeta, izvještaj praæenja rada vanjskih odvjetnièkih ureda i na kraju uputu za externalizaciju)
+2. Suradnja sa vanjskim odvjetnièkim uredima ( po osiguranim i neosiguranim kreditima) Cilj je uspostaviti proces rada vanjskih odvjetnièkih ureda bez podrške internih pravnika i razviti njihovu komunikaciju sa svim sudionicima procesa (CM, raèunovodstvo, LM itd..) te praæenje da je proces uspješno implementiran
+3. Modul odvjentièkih ureda - analiza postojeæeg stanja (koji su problemi/nedostatci), prijedlozi za poboljšanje, rješenje u vidu prijedloga i koraka koji trebaju biti poduzeti
+",Eksternalizacija - Vanjski odvjetnièki uredi,2020-12-31,2,,
+587,2,"Cilj obuhvaæa:
+pokretanje pravnih postupaka na svim kolateralima gdje istih nema u predmetima u Priority 1,2,3 (pokretanje postupka podrazumjeva slanje prijedloga za ovrhu na sud/kod j.b)
+-Anita C. nema klijenata za pokretanje pravnog postupka  u Priority 3","Pokretanje pravnih postupaka u Priority 1,2,3",2020-12-31,1,,
+588,2,Cilj obuhvaæa izradu te prezetaciju Case study-a zakljuèno sa 31/12/2020,Case study,2020-12-31,2,,
+589,2,Recovered amount from 01.07.-31.12.2020. for Retail Secured Team,Recovered amount in MKN,2020-12-31,1,,
+590,2," Percentage of successfully concluded and realized/ in realizationagreements with debtors, guarantors and pledge debtors",Successful agreements,2020-12-31,1,,
+591,2,"Eksternalizacija u vanjske odvjetnicke urede obuhvaca:
+1. Kriterije za eksternalizaciju (dodjela predmeta, povlacenje predmeta, izvještaj pracenja rada vanjskih odvjetnickih ureda i na kraju uputu za externalizaciju)
+2. Suradnja sa vanjskim odvjetnickim uredima ( po osiguranim i neosiguranim kreditima) Cilj je uspostaviti proces rada vanjskih odvjetnickih ureda bez podrške internih pravnika i razviti njihovu komunikaciju sa svim sudionicima procesa (CM, racunovodstvo, LM itd..) te pracenje da je proces uspješno implementiran
+3. Modul odvjentickih ureda - analiza postojeceg stanja (koji su problemi/nedostatci), prijedlozi za poboljšanje, rješenje u vidu prijedloga i koraka koji trebaju biti poduzeti",Eksternalizacija - Vanjski odvjetnicki uredi,2020-12-31,1,,
+592,2,"Priprema materijala i prezentacije, održavanje edukacije Odjelu upravljanja imovinom (2 grupe miješanih timova), priprema ankete za feedback",Edukacija na temu: XXX,2020-12-31,2,,
+594,2,"
+Cilj obuhvaca izradu izvještaja i definiranje seta podataka za ucitavanje na web. Ocekivanja od cilja su:
+1. Edukacija Asset Mng odjela i izrada upute za rad
+2. Report modul kolaterala (basic polja potrebna za reporting)
+3. Report sa setom podataka koji ce se ucitavati na web (svi kolaterali)
+4. izrada reporta o posjecenosti web stranice (broj posjetitelja u vremenskom periodu, broj upita, dražbi, prodaja potraživanja, top 30 pogledanih nekretnina unutar kategorije dražbe/potraživanja",B2 Nekretnine,2020-12-31,1,,
+595,2,"
+Cilj obuhvaca izradu te prezetaciju Case study-a zakljucno sa 31/12/2020",Case study ,2020-12-31,2,,
+596,2,Cilj obuhvaca poboljšanje prezetacijskih vještina (edukacija HR + samorazvoj),Prezentacijske vještine,2020-12-31,2,,
+597,2,Automation of adhoc reguest for correctly tracking and monitoring profitability centers to assist Board in making decision on Company level,Profitability centers monitoring ,2020-12-31,1,,
+598,2,"Monthly monitoring and analysis of CtC per department, including reporting to the heads of department or Board, with final goal to achieve better cost management to reach accaptable CtC on Company level",Monthly result monitoring and analysis  incl CtC (FCST & BP),2020-12-31,1,,
+599,2,"Main goal to make a list of controlling proceses on one place, to prepare base for the future possible regulator, including its description and main workflow (in cooperation with other colleagues in department)",Controlling process revision/definition ,2020-12-31,1,,
+600,2,learning about the impact of strss and the tools to manage it,Stress management,2020-12-31,2,,
+601,2,"Arhiviranje obuhvaæa:
+1. izradu upute za arhiviranje i održavanje edukacije svim timovima
+2. praæenje timova te izrada tjednog izvještaja (feedback od voditelja ukoliko nije napravljen dovoljan broj arhiviranja)
+3. quality check unesenih podataka
+4. održavanje baze do importa podataka u AroTron 
+",Razvojni cilj- Arhiviranje,2020-12-31,2,,
+602,2,"Cilj obuhvaæa osobni obilazak nekretnina za predmete u Priority 1 (Field visit: gdje posljednjih 6 mjeseci nije obavljen isti ili je obavljen od strane drugog CM-a)
+- u sluèaju nepovoljne situacije uzrokovane virusom COVID-19, revizija KPI-a nakon 3 mjeseca",Poslovni cilj- Field visit_VOL2,2020-12-31,1,,
+603,2,"Oglašavanje prodaje potraživanja na B2 Nekretnine
+Cilj obuhvaæa objavu prodaje potraživanja na web stranici B2 Nekretnine za predmete iz Priority 1 (ak je nedovoljan broj grupa u Priority 1 uzeti Priority 2 pa 3)",Razvojni cilj- Oglašavanje prodaje potraživanja na B2N,2020-12-31,2,,
+604,2,Ratio of cash vs repossession in recovery: keeping on a high level cash recovery in total recovered amount ,Timski cilj,2020-12-31,1,,
+605,2,"Successful agreements  :
+Description: Percentage of successfully concluded and realized / in realization agreements with debtors, guarantors and pledge debtors
+",Timski cilj,2020-12-31,1,,
+606,2,"Cilj obuhvaæa potpunu implementaciju E-komunikacije sa sudovima unutar WO odjela. Oèekivanja od cilja su:
+1. Edukacija Asset Mng odjela i izrada upute za rad
+2. Ishoðenje certifikata za B2 Portfolio (za B2 Real Estate vidjeti da li je potrebno?)
+3. Report/Cost benefit E-komunikacije ",E-komunikacija,2020-12-30,2,,
+607,2,"Cilj obuhvaæa osobni obilazak nekretnine/suda za predmete u Priority 1 (Field visit: gdje posljednjih 6 mjeseci nije obavljen isti ili je obavljen od strane drugog CM-a/LM-a
+- u sluèaju nepovoljne situacije uzrokovane virusom COVID-19, revizija KPI-a nakon 3 mjeseca",Field visit/Court visit_VOL2,2020-12-31,1,,
+608,2,Cilj obuhvaæa izradu te prezetaciju Case study-a zakljuèno sa 31/12/2020,Case study,2020-12-31,2,,
+609,2,Edukacija za praæenje korisnika i korisnièkog iskustva putem Google Analytics platforme,Advanced Google Analytics Academy - online edukacija,2020-12-31,2,,
+610,2,Pisanje korisnièkog priruènika za Administratora web stranice B2Nekretnine.hr,Korisnièki priruènik za web stranicu B2Nekretnine.hr,2020-12-31,1,,
+611,2,Implementacija Newslettera na web stranicu B2Nekretnine.hr za slanje promotivnih materijala vezanih za trenutne prodajne ciljeve,Newsletter za web stranicu B2Nekretnine.hr,2020-12-31,1,,
+612,2,Implementacija Bloga na web stranici B2Nekretnine.hr radi bolje promocije i kvalitetnijeg sadržaja ,Blog na stranici B2Nekretnine.hr,2020-12-31,1,,
+613,2,U potpunosti ovladati svim funkcionalnostima aplikacije mDocs DMS potrebnim za ažurno upravljanje dokumentacijom i raèunima za preuzete nekretnine,Korištenje aplikacije mDocs DMS,2020-12-31,2,,
+614,2,"Kontaktirati sve osobe koje imamo u evidenciji da se nalaze u fizièkom posjedu nekretnine i zatražiti sklapanje ugovora o najmu s ovršnom klauzulom i na taj naèin ishoditi fizièki posjed nekretnine i dogovoriti plaæanje mjeseène rente, èime bi se poveæali prihodi tvrtke. ",Sklapanje ugovora o najmu za nekretnine bez posjeda,2020-12-31,1,,
+615,2,U potpunosti ovladati svim funkcionalnostima aplikacije Arotron za preuzete nekretnine. ,Savladavanje REO Module-a unutar Arotrona ,2020-12-31,2,,
+616,2,"Aktivnosti oko stavljanja nekretnina u najam i zakup: obilazak i prezentacija nekretnina s potencijalnim zakupnicima, pregovori oko uvjeta te obrada AML dokumentacije.",Najam i zakup nekretnina,2020-12-31,1,,
+617,2,Praæenje urednosti izvršavanja obveza zakupnika te kordinacija s pravnom službom i raèunovodstvom.,Praæenje urednosti izvršavanja obveza zakupnika,2020-12-31,1,,
+618,2,Kvaliteta i brzina u izvještavanju prihoda od najma i zakupa za sva društva,Izvještaji za interna tijela ,2020-12-31,1,,
+619,2,Naplata od 1.7.-31.12.2020,Timski cilj,2020-12-31,1,,
+620,2,Postotak uspješno sklopljenih sporazuma/nagodbi s klijentima,Timski cilj,2020-12-31,1,,
+621,2,"Pohaðanje do 10 field visita sa asset mangereom u cilju traženja dodatnih elemenata koje mogu koristiti u sudskim postupcima, kao i pregovorima s klijentima uz ostavljanje ekstenzivnog komentara u Arotronu",Osobni cilj,2020-12-31,1,,
+622,2,Održavanje edukacije za odjel za upravljenje imovinom na temu izravne pogodbe u steèaju i ovrsi,Osobni cilj,2020-10-31,2,,
+623,2,"Pokretanje pravnih postupaka na svim kolateralima gdje istih nema u predmetima u Priority 1,2,3 (pokretanje postupka podrazumjeva slanje prijedlog za ovrhu na sud/kod j.b)",Osobni cilj,2020-12-31,1,,
+624,2,"
+Recovered amount from 01.07.-31.12.2020. for Retail Secured Team
+",Recovered amount in MKN,2020-12-31,1,,
+625,2," Percentage of successfully concluded and realized / in realization agreements with debtors, guarantors and pledge debtors
+",Successful agreements,2020-12-31,1,,
+626,2,Cilj obuhvaæa izradu te prezetaciju Case study-a zakljuèno sa 31/12/2020,Case study,2020-12-31,1,,
+627,2,"Cilj obuhvaæa osobni obilazak nekretnine/suda za predmete u Priority 1 (Field visit: gdje posljednjih 6 mjeseci nije obavljen isti ili je obavljen od strane drugog CM-a/LM-
+- u sluèaju nepovoljne situacije uzrokovane virusom COVID-19, revizija KPI-a nakon 3 mjeseca",Field visit/Court visit_VOL1,2020-12-31,2,,
+628,2,"Cilj obuhvaæa:
+pokretanje pravnih postupaka na svim kolateralima gdje istih nema u predmetima u Priority 1,2,3 (pokretanje postupka podrazumjeva slanje prijedlog za ovrhu na sud/kod j.b)","Pokretanje pravnih postupaka u Priority 1,2,3",2020-12-31,2,,
+629,2,"Prikupljanje dokumentacije, organiziranje termina preuzimanja/primopredaje, utvrðivanje stanja i rezgled odjekta, ispunjavanje primopredajnog zapisnika, uvoðenje FM-a na objekt i popratne primarne radnje vezane uz promjenu brava i sl.",Preuzimanje i primopredaja nekretnine,2020-12-31,1,,
+630,2,Prikupljanje i analiza (provjera)kompletnih režijskih troškova. Izrada tablice prefaktura po kljuèu odreðenim ugovorom o zakupu.,Prefakture troškova (SOLARIS) ,2020-12-31,1,,
+631,2,Ishoðenje ponuda i provjera radnih naloga zatraženih od strane FM-a. Ishoðeno odobrenje istih.,Provjera i odobravanje radnih naloga,2020-12-31,1,,
+632,2,Analiza i praæenje troškova s ciljem optimizacije istih ( režijski troškovi i izvanredni troškovi - hitne intervencije),Optimizacija troškova,2020-12-31,1,,
+633,2,Praæenje dinamike naruèenih radova ,Monitoring radova,2020-12-31,2,,
+634,2,Ovladavanje upravljanja raèunima kroz DMS i korištenje AroTRON-a ,Upravljanje raèunima (DMS) i korištenje AroTRON-a (REO),2020-12-31,1,,
+635,2,"Obilazak nekretnine / suda za predmete u Priority 1 ili 2 (ako su svi u 1 pokriveni), provjera stanja nekretnina na terenu, traženje dodatnih elemenata koji se mogu koristiti u sudskim postupcima; opširan report u Arotronu o nalazu. U sluèaju nepovoljne situacije zbog COVID-19 krize, revizija KPI nakon 31.10.2020",Field visit,2020-12-31,1,,
+636,2,"pokretanje pravnih postupaka na svim kolateralima gdje istih nema u predmetima u Priority 1,2,3 (pokretanje postupka podrazumjeva slanje prijedlog za ovrhu na sud/kod j.b)","Pokretanje pravnih postupaka u Priority 1,2,3",2020-12-31,1,,
+637,2,"Cilj obuhvaæa osobni obilazak nekretnine/suda za predmete u Priority 1 (Field visit: gdje posljednjih 6 mjeseci nije obavljen isti ili je obavljen od strane drugog CM-a/LM-
+- u sluèaju nepovoljne situacije uzrokovane virusom COVID-19, revizija KPI-a nakon 3 mjeseca",Field visit/Court visit_VOL1,2020-12-31,2,,
+638,2,Cilj obuhvaæa izradu te prezetaciju Case study-a zakljuèno sa 31/12/2020,Case study,2020-12-31,2,,
+639,2,Cilj obuhvaca izradu te prezetaciju Case study-a zakljucno sa 31/12/2020,Case study,2020-12-31,2,,
+640,2,Cilj obuhvaca objavu prodaje potraživanja na web stranici B2 Nekretnine za predmete iz Priority 1 (ak je nedovoljan broj grupa u Priority 1 uzeti Priority 2 pa 3),Oglašavanje prodaje potraživanja na B2 Nekretnine,2020-12-31,1,,
+641,2,Cilj obuhvaca osobni razvoj te svladavanje vještina vodenja i upravljanja ljudima,Vještine vodenja i upravljanja ljudima,2020-12-31,2,,
+642,2,Ukupan broj promise-a i postotak ostvarenih uplata,Individualni cilj,2020-12-31,1,,
+643,2,Ukupna naplata,Individualni cilj,2020-12-31,1,,
+644,2,"Broj uplata iznad 1.000,00 HRK",Individualni cilj,2020-12-31,1,,
+645,2,"E-mail korespodencija- angažiranost u procesima, potrebno poboljšati uèinkovitost u procesu pisane komunikacije",Osobni razvojni cilj,2020-12-31,2,,
+646,2,Smanjenje prosjeènog trajanja poziva,Osobni razvojni cilj,2020-12-31,2,,
+647,2,Ukupan broj promise-a i postotak ispunjenog promise-a,Individualni,2020-12-31,1,,
+648,2,Ukupna naplata,Individualni,2020-12-31,1,,
+649,2,"Broj uplata iznad 1.000,00 HRK",Individualni,2020-12-31,1,,
+650,2,Podiæi asertivnost u svakom razgovoru i prepoznati kljuèni problem u razgovoru,Osobni razvoj,2020-12-31,2,,
+651,2,recovered amount from 01.07.-31.12.2020. for Retail Secured Team,Recovered amount in MKN,2020-12-31,1,,
+652,2,"Percentage of successfully concluded and realized / in realization agreements with debtors, guarantors and pledge debtors",Successful agreements,2020-12-31,1,,
+653,2,"Arhiviranje obuhvaæa:
+1. izradu upute za arhiviranje i održavanje edukacije svim timovima
+
+2. praæenje timova te izrada tjednog izvještaja (feedback od voditelja ukoliko nije napravljen dovoljan broj arhiviranja)
+3. quality check unesenih podataka
+4. održavanje baze do importa podataka u AroTron",Arhiviranje,2020-12-31,1,,
+654,2,"Cilj obuhvaæa osobni obilazak nekretnine/suda za predmete u Priority 1 (Field visit: gdje posljednjih 6 mjeseci nije obavljen isti ili je obavljen od strane drugog CM-a/LM-
+- u sluèaju nepovoljne situacije uzrokovane virusom COVID-19, revizija KPI-a nakon 3 mjeseca",Field visit/Court visit_VOL2,2020-12-31,2,,
+655,2,"pokretanje pravnih postupaka na svim kolateralima gdje istih nema u predmetima u Priority 1,2,3 (pokretanje postupka podrazumjeva slanje prijedlog za ovrhu na sud/kod j.b)","Pokretanje pravnih postupaka u Priority 1,2,3",2020-12-31,2,,
+656,2,"Razvoj upravljaèkih vještina, organizacija i koordinacija rada u timu, postavljanje i praæenje ciljeva, rješavanje konfliktnih situacija",Osobni cilj  - Organizacijske vještine / upravljanje ljudima,2020-12-31,2,,
+658,2,ukupni naplaæeni iznos unutar polugodišta,individualni,2020-12-31,1,,
+659,2,broj dogovorenih uplata/postotak ostvarenih,individualni,2020-12-31,1,,
+660,2,broj izvršenih uplata 1000 HRK i više,individualni,2020-12-31,1,,
+661,2,Unapreðenje komunikacijskih vještina:                  prepoznavanje kljuènog problema,osobni razvojni cilj,2020-12-31,2,,
+662,2,Unapreðenje komunikacijskih vještina:                       konkretan pokušaj dogovora/upornost,osobni razvojni cilj,2020-12-31,2,,
+663,2, Description: recovered amount from 01.07.-31.12.2020,Recovered amount in MKN,2020-12-31,1,,
+664,2,"
+Description: Percentage of successfully concluded and realized / in realization agreements with debtors, guarantors and pledge debtors
+",Successful agreements,2020-12-31,1,,
+665,2, Cilj obuhvaca izradu te prezetaciju Case study-a zakljucno sa 31/12/2020,Case study (1-2),2020-12-31,1,,
+666,2,"Cilj obuhvaca osobni obilazak nekretnine/suda za predmete u Priority 1 (Field visit: gdje posljednjih 6 mjeseci nije obavljen isti ili je obavljen od strane drugog CM-a/LM, u slucaju nepovoljne situacije uzrokovane virusom COVID-19, revizija KPI-a nakon 3 mjeseca",Field visit/Court visit_VOL1 ,2020-12-31,2,,
+667,2,"Oglašavanje prodaje potraživanja na B2 Nekretnine. Cilj obuhvaca objavu prodaje potraživanja na web stranici B2 Nekretnine za predmete iz Priority 1 (ak je nedovoljan broj grupa u Priority 1 uzeti Priority 2 pa 3)
+",Oglašavanje prodaje potraživanja na B2 Nekretnine,2020-12-31,2,,
+668,2,Prezentacijske vještine (CC2/Strategy) Cilj obuhvaca poboljšanje prezetacijskih vještina (edukacija HR + samorazvoj),Prezentacijske vještine (CC2/Strategy),2020-12-31,2,,
+669,2,"
+Recovered amount from 01.07.-31.12.2020. for Retail Secured Team",Recovered amount in MKN,2020-12-31,1,,
+670,2,"Percentage of successfully concluded and realized / in realization agreements with debtors, guarantors and pledge debtors",Successful agreements,2020-12-31,1,,
+671,2,Cilj obuhvaæa izradu te prezetaciju Case study-a zakljuèno sa 31/12/2020,Case study,2020-12-31,1,,
+672,2,"Cilj obuhvaæa osobni obilazak nekretnine za predmete u Priority 1 (Field visit: gdje posljednjih 6 mjeseci nije obavljen isti ili je obavljen od strane drugog CM-a
+- u sluèaju nepovoljne situacije uzrokovane virusom COVID-19, revizija KPI-a nakon 3 mjeseca",Field visit,2020-12-31,2,,
+673,2,Cilj obuhvaæa objavu prodaje potraživanja na web stranici B2 Nekretnine za predmete iz Priority 1 (ako je nedovoljan broj grupa u Priority 1 uzeti Priority 2 pa 3),Oglašavanje prodaje potraživanja na B2 Nekretnine,2020-12-31,2,,
+674,2,Cilj obuhvaæa poboljšanje prezetacijskih vještina (edukacija HR + samorazvoj),Prezentacijske vještine (CC2/Strategy),2020-12-31,2,,
+675,2,Ukupan broj dogovorenih uplata i postotak izvršenih uplata ,Individualni cilj,2020-12-31,1,,
+676,2,Ukupna (individualna) naplata,Individualni cilj,2020-12-31,1,,
+677,2,Broj uplata 1000 HRK i više ,Individualni cilj,2020-12-31,1,,
+678,2,Komunikacijske vještine-podiæi asertivnost i prezentiranje kljuènog problema u svakom razgovoru,Razvojni cilj,2020-12-31,2,,
+679,2,Smanjiti prosjeèno trajanje poziva,Uèinkovitost,2020-12-31,2,,
+680,2,Smanjiti overflow/busy/ machine pozive u predictive dialer-u,Individualni,2020-12-31,1,,
+681,2,"Clean up customer data(user error, phone, adress, e-mail contact data)",Individualni,2020-12-31,1,,
+682,2,	Novi izvori / metode provjere ispravnosti customer data-e ,Individualni,2020-12-31,1,,
+683,2,"Razvoj organizacijskih, menadžerskih i voditeljskih vještina (definiran akcijiski plan)",Osobni razvoj,2020-12-31,2,,
+684,2,Razvoj nasljednika (Team leader u odjelu naplate),Osobni razvoj,2020-12-31,2,,
+685,2,Ukupan broj dogovorenih uplata i postotak ispunjenih dogovorenih uplata,Individualni cilj,2020-12-31,1,,
+686,2,Ukupna naplata/Cash collected,Individualni cilj,2020-12-31,1,,
+687,2,Ukupan broj uplata iznad 1000 HRK,Individualni cilj,2020-12-31,1,,
+688,2,"Predložiti poboljšanja poslovanja te se više ukljuèiti u strateške inicijative, tj. biti proaktivan.",Osobni razvojni cilj,2020-12-31,2,,
+689,2,"Instalacija, konfiguracija i deployment novog DFS file servera. Migracija file share-ova na DFS server",Novi DFS file server,2020-12-31,1,,
+690,2,"Revizija procedure za backup, testni restore i revizija backup HW",Backup kritiènih sustava,2020-12-31,1,,
+691,2,Uspostava domain trusta sa H-Abduco sustavom u cilju unifikacije user managementa,Uspostava domain trusta sa H-Abducom,2020-12-31,1,,
+692,2,Online pohaðanje vSphere teèaja i certificiranje znanja,Pohaðanje vSphere certificiranog teèaja,2020-12-31,2,,
+693,2,It is nessesary to generate code in Excel-VBA that will automatically pivot all curves by portfolios for each country. It is also necessary to create a template that will be filled in by each country for its portfolios,Automation of debtor by debtor report for curve revision,2020-12-31,1,,
+694,2,In the SSRS create a report with Filters that will unite multiole individual tickets,Analysis of existing tickets and creation of administration(or other) reports in SSRS incl filters,2020-12-31,1,,
+695,2,Create a databases in which decisions for the CC will be stored. Create a databases from excel to DWH for the Pipeline report,"Creation of databases into DWH (CC decision, Pipeline report",2020-12-31,1,,
+696,2,learning about the impact of relationships between colleagues and the tools to manage it,People managment,2020-12-31,2,,
+697,2,broj postavljenih dogovora i postotak ispoštovanih uplata,Individualni cilj,2020-12-31,1,,
+698,2,ukupna osobna naplata,Individualni cilj,2020-12-31,1,,
+699,2,uplate iznad 1000 kuna,Individualni cilj,2020-12-31,1,,
+700,2,"Cilj ukljuèuje postavljanje konkretnih prijedloga za poslovno unaprijeðenje, kao i poveæanje proaktivnosti te ukljuèenosti u razvoj poslovanja unutar odjela.",osobni razvoj/ prijedlog unaprijeðenja,2020-12-31,2,,
+701,2,Broj promise-a i postotak ostvarenih promise-a,Individualni cilj,2020-12-31,1,,
+702,2,Ukupna naplata ,Individualni cilj,2020-12-31,1,,
+703,2,Uplate iznad 1000 HRK,Individualni cilj,2020-12-31,1,,
+704,2,Osobni razvoj tj. Prijedlozi unaprijeðenja poslovanja sektora ,Prijedlog poslovnog unaprijeðenja u FO/Razvojni cilj,2020-12-31,2,,
+705,2,Unos i kontrola kvalitete uplata u AroTron koje su pristigle u razlièitim formatima. Import se radi na dva naèina: bank statement import (izvod od banke) i bank transfer (specifikacije od banaka).,Realizacija kvalitete importa uplata,2020-12-31,1,,
+706,2,"Unos i kontrola kvalitete troškova u sustav putem import job-a. Troškovi koje unosimo su definirani u 4 glavne kategorije, a same vrste troškova su definirane u zajednièkom šifarniku.",Realizacija kvalitete importa troškova,2020-12-31,1,,
+707,2,Unos i kontrola kvalitete novih ili postojeæih subjekata u sustav sa specifièno zadanom rolom unutar sustava.,Realizacija kvalitete importa subjekata,2020-12-31,1,,
+708,2," Podruèja edukacije: triggeri, agregatne funkcije, stored procedure,optimizacija upita,pogledi i indeksi",SQL interna edukacija,2020-12-31,2,,
+709,2,"Recovered amount in MKN -recovered amount from 01.07.-31.12.2020. for Corporate Team
+",Timski cilj,2020-12-31,1,,
+710,2,"Successful agreements -percentage of successfully concluded and realized / in realization agreements with debtors, guarantors and pledge debtors
+",Timski cilj ,2020-12-31,1,,
+711,2,Broj promise-a + postotak uspješnosti promise-a,individualni cilj,2020-12-31,1,,
+712,2,ukupna naplata,Individualni cilj,2020-12-31,1,,
+713,2,"uplate iznad 1.000,00 HRK",individualni cilj,2020-12-31,1,,
+714,2,"aktivno slušanje, prilagodba komunikacije svakom klijentuposebno i asertivnost u svakom razgovoru",unaprijeðenje komunikacijske vještine / Razvojni cilj,2020-12-31,2,,
+715,2,Stjecanje certifikata MCSA Windows Server 2016,Edukacija MCSA,2020-12-31,2,,
+716,2,Promjena Bitlocker kljuèeva svih laptopa na nasumiène vrijednosti poznate samo korisniku,Bitlocker kljuèevi,2020-12-31,1,,
+717,2,Unificiranje naziva PCva u ADu u svrhu lakšeg praæenja i voðenja opreme,Unificiranje nazivlja PCeva u ADu,2020-12-31,1,,
+718,2,"Revidirati podatke u Keepassu, presložiti u svrhu lakšeg snalaženja",Keepass revizija,2020-12-31,1,,
+719,2,"Unos i kontrola kvalitete novih ili postojeæih subjekata u sustav sa specifièno zadanom rolom unutar sustava. Procesi veæe težine poput debtor change, ispravci prijavljenih logièkih grešaka unutar sustava, razna ažuriranja nad customer podacima.",Realizacija kvalitete customer podataka,2020-12-31,1,,
+720,2,"Kreiranje internih projekata za IT odjel unutar ticketing software-a. Postavljanje custom postavki, automatizacije prema pravilima internih procesa.",JIRA IT Help Desk reorganizacija,2020-12-31,1,,
+721,2,Kreiranje novog projekta unutar JIRA ticketing sustava za potrebe voðenja procjena nekretnina.,JIRA Asset projekt,2020-12-31,1,,
+722,2,recovered amount from 01.07.-31.12.2020. for Retail Secured Team,Recovered amount in MKN:,2020-12-31,1,,
+723,2,"Percentage of successfully concluded and realized / in realization agreements with debtors, guarantors and pledge debtors
+",Successful agreements,2020-12-31,1,,
+724,2,Cilj obuhvaæa izradu te prezetaciju Case study-a zakljuèno sa 31/12/2020,Case study (1-2) ,2020-12-31,1,,
+725,2,"Cilj obuhvaæa osobni obilazak nekretnine/suda za predmete u Priority 1 (Field visit: gdje posljednjih 6 mjeseci nije obavljen isti ili je obavljen od strane drugog CM-a/LM-
+- u sluèaju nepovoljne situacije uzrokovane virusom COVID-19, revizija KPI-a nakon 3 mjeseca",Field visit/Court visit_VOL1,2020-12-31,2,,
+726,2,Cilj obuhvaæa objavu prodaje potraživanja na web stranici B2 Nekretnine za predmete iz Priority 1 (ak je nedovoljan broj grupa u Priority 1 uzeti Priority 2 pa 3),Oglašavanje prodaje potraživanja na B2 Nekretnine,2020-12-31,2,,
+727,2,Cilj obuhvaæa poboljšanje prezetacijskih vještina (edukacija HR + samorazvoj),Prezentacijske vještine (CC2/Strategy),2020-12-31,2,,
+728,2,"Priprema materijala i prezentacije, održavanje edukacije Odjelu upravljanja imovinom (2 grupe miješanih timova), priprema ankete za feedback
+ ",Edukacija na temu: Steèajni plan ,2020-12-31,1,,
+729,2,"Interna edukacija (IT), vlastito usavršavanje i trening radi poboljšanja rada u excelu u cilju samostalnih izraèuna i prezentacija; feedback Head AM + TL",Excel - usavršavanje,2020-12-31,2,,
+730,2,"Obilazak nekretnine / suda za predmete u Priority 1 ili 2 (ako su svi u 1 pokriveni), provjera stanja nekretnina na terenu, traženje dodatnih elemenata koji se mogu koristiti u sudskim postupcima; opširan report u Arotronu o nalazu. U sluèaju nepovoljne situacije zbog COVID-19 krize, revizija KPI nakon 31.10.2020",Field visit / Court visit,2020-12-31,2,,
+731,2,Broj dogovorenih uplata /postotak uspješnosti uplata,Individualni cilj,2020-12-31,1,,
+732,2,Ukupna naplata,Individualni cilj,2020-12-31,1,,
+733,2,Uplate iznad 1.000 HRK,Individualni cilj,2020-12-31,1,,
+734,2,Poveæati asertivnost u svakom razgovoru i prepoznati kljuène probleme u njima,Unaprjeðenje komunikacijskih osobina,2020-12-31,2,,
+735,2,"Samostalno educiranje vezano za JIRA software, moguænosti, definicije, upotreba. Proširianje znanja u podruèju administriranja JIRA software-a. Podruèja edukacije: JIRA Service Desk, JIRA software, System management",JIRA software edukacija,2020-12-31,2,,
+736,2,Ukupan broj promisea i postotak ispunjenog promisea.,INDIVIDUALNI,2020-12-31,1,,
+737,2,Ukupna naplata.,INDIVIDUALNI,2020-12-31,1,,
+738,2,Broj uplata iznat 1000 HRK.,INDIVIDUALNI ,2020-12-31,1,,
+739,2,Unapreðenje komunikacijskih vještina. Podiæi asertivnost u svakom razgovoru i prepoznati kljuèni problem.,OSOBNI RAZVOJ ,2020-12-31,2,,
+740,2,UKUPAN BROJ PROMISA I POSTOTAK OSTVARENIH UPLATA,NDIVIDUALNI CILJ,2020-12-31,1,,
+741,2,UKUPNA NAPLATA,INDIVIDUALNI CILJ,2020-12-31,1,,
+742,2,UPLATE IZNAD 1000 KN,INDIVIDUALNI CILJ,2020-12-31,1,,
+743,2,Poveæati asertivnost u svakom razgovoru i prepoznati kljuène probleme u svakom razgovoru,UNAPRIJEÐENJE KOMUNIKACIJSKIH VJEŠTINA,2020-12-31,2,,
+744,2,ukupan broj promisa i postotak ispunjenog promisa,individualni cilj,2020-12-31,1,,
+745,2,ukupna naplata/cash coll.,individualni cilj,2020-12-31,1,,
+746,2,ukupan broj uplata iznad 1000 kn,individulani cilj ,2020-12-31,1,,
+747,2,"predložiti poboljšanja poslovanja te se više ukljuèiti u strateške inicijativ, tj. biti proaktivan",osobni razvoj,2020-12-31,2,,
+748,2,Unos i kontrola kvalitete uplata u AroTron koje su pristigle u razlièitim formatima. Import se radi na dva naèina: bank statement import (izvod od banke) i bank transfer (specifikacija od banke).,Realizacija kvalitete importa uplata,2020-12-31,1,,
+749,2,"Unos i kontrola kvalitete troškova u sustav putem import job-a. Troškovi koje unosimo su definirani u 4 glavne kategorije, a same vrste troškova su definirani u zajednièkom šifrarniku.",Realizacija kvalitete importa troškova,2020-12-31,1,,
+750,2,Unos i kontrola kvalitete novih i postojeæih subjekata u sustav sa specifièno zadanom rolom unutar sustava,Realizacija kvalitete importa subjekata,2020-12-31,1,,
+751,2,"Edukacija programskih jezika/alata - JAVA, Spring, SpringBoot te certifikacija (JAVA)",Edukacija programskih jezika/alata - JAVA,2020-12-31,2,,
+752,2,"Usvajanje znanja vezanih uz MS Exchange, te primjena znanja u praksi uz predložena poboljšanja na trenutnoj infrastrukturi",MS Exchange server,2020-12-31,2,,
+753,2,Broj promise-a i postotak uspješnosti ,Individualni cilj ,2020-12-31,1,,
+754,2,Ukupna naplata,Individualni cilj ,2020-12-31,1,,
+755,2,Payments above 1000 HRK,Individualni cilj ,2020-12-31,1,,
+756,2,"Aktivno slušanje prema klijentima, asertivni pristup svakom klijentu. Potrebno posebno obratiti pozornost na svakog klijenta individualno).",Unaprijeðenje komunikacijskih vještina,2020-12-31,2,,
+757,2,Cilj je analizirati otvorene tikete tipa „problem report“ prema SA timu te iste pokušati smanjiti kroz edukaciju korisnika ili trajnim rješavanjem uzroka problema. ,Smanjenj broja otvorenih tiketa,2020-12-31,1,,
+758,2,Implementacija samsung Knox managera u Adroid Enterprise nacinu rada,Implementacija samsung Knox managera u Adroid Enterprise nacinu rada,2020-12-31,1,,
+759,2,"Implementacija i konfiguracija Windows update servisa, ažuriranje raèunala unutar B2 Kapital i Habduco mreže uz centralno upravljanje ažuriranjima",Implementacija WSUS rješenja,2020-12-31,1,,
+760,2,ostvarenje 15.000.000 HRK prihoda na temelju prodaje/zakupa preuzetih nekretnina u vlasništvu B2K (ukljuèujuæi B2RE i  B2P),Prihod od komercijalizacije B2K nekretnina,2020-12-31,1,,
+761,2,"
+recovered amount from 01.07.-31.12.2020. for Retail Secured Team
+",Recovered amount in MKN,2020-12-31,1,,
+762,2," Percentage of successfully concluded and realized / in realization agreements with debtors, guarantors and pledge debtors
+",Successful agreements,2020-12-31,1,,
+763,2,Cilj obuhvaæa izradu te prezetaciju Case study-a zakljuèno sa 31/12/2020,Case study ,2020-12-31,1,,
+764,2,"Cilj obuhvaæa osobni obilazak nekretnine/suda za predmete u Priority 1 (Field visit: gdje posljednjih 6 mjeseci nije obavljen isti ili je obavljen od strane drugog CM-a/LM-
+- u sluèaju nepovoljne situacije uzrokovane virusom COVID-19, revizija KPI-a nakon 3 mjeseca",Field visit/Court visit_VOL1,2020-12-31,2,,
+765,2,Cilj obuhvaæa objavu prodaje potraživanja na web stranici B2 Nekretnine za predmete iz Priority 1 (ak je nedovoljan broj grupa u Priority 1 uzeti Priority 2 pa 3),Oglašavanje prodaje potraživanja na B2 Nekretnine,2020-12-31,2,,
+766,2,Cilj obuhvaæa poboljšanje prezetacijskih vještina ,Prezentacijske vještine (CC2/Strategy),2020-12-31,2,,
+767,2,ostvarenje 40.000.000 HRK prihoda na temelju prodaje/zakupa preuzetih nekretnina iz Solaris portfelja ,Prihod od komercijalizacije Solaris nekretnina,2020-12-31,1,,
+768,2,prodaja preuzetih nekretnina iznad BV,Uspješna prodaja REOsa,2020-12-31,1,,
+769,2,voðenje pregovora i zakljuèenje ugovora o za FM usluge do 30.09.2020 ,Zakljuèenje FM ugovora za preuzete nekretnine,2020-12-31,1,,
+770,2,"Recovered amount in MKN:
+Description: recovered amount from 01.07.-31.12.2020. for Retail Secured Team",Recovered amount in MKN,2020-12-31,1,,
+771,2,"Successful agreements  :
+Description: Percentage of successfully concluded and realized / in realization agreements with debtors, guarantors and pledge debtors",Successful agreements,2020-12-31,1,,
+772,2,"Cilj obuhvaæa izradu izvještaja i definiranje seta podataka za uèitavanje na web. Oèekivanja od cilja su:
+1. Edukacija Asset Mng odjela i izrada upute za rad
+2. Report modul kolaterala (basic polja potrebna za reporting)
+3. Report sa setom podataka koji æe se uèitavati na web (svi kolaterali)
+4. izrada reporta o posjeæenosti web stranice (broj posjetitelja u vremenskom periodu, broj upita, dražbi, prodaja potraživanja, top 30 pogledanih nekretnina unutar kategorije dražbe/potraživanja",B2 Nekretnine,2020-12-31,1,,
+773,2,Cilj obuhvaæa objavu prodaje potraživanja na web stranici B2 Nekretnine za predmete iz Priority 1 (ak je nedovoljan broj grupa u Priority 1 uzeti Priority 2 pa 3),Oglašavanje prodaje potraživanja na B2 Nekretnine,2020-12-31,2,,
+774,2,Cilj obuhvaæa poboljšanje prezetacijskih vještina (edukacija HR + samorazvoj),Prezentacijske vještine (CC2/Strategy),2020-12-31,2,,
+775,2,Recovered amount from 01.07.-31.12.2020,Recovered amount in MKN,2020-12-31,1,,
+776,2,"Percentage of successfully concluded and realized / in realization agreements with debtors, guarantors and pledge debtors",Successful agreements,2020-12-31,1,,
+777,2,"Preparation of materials and presentations, holding the presentation to Asset Management Department (2 groups of mixed teams), preparation of a survey for feedback",Case study,2020-12-31,1,,
+778,2,Ukupno naplaæen iznos unutar polugodišta,Individualni ,2020-12-31,1,,
+779,2,Broj dogovorenih uplata / postotak ostvarenih,Individualni,2020-12-31,1,,
+780,2,Broj izvršenih uplata od 1000 kn i više,Individualni,2020-12-31,1,,
+781,2,"Veæa uèinkovitost, smanjenje korištenja statusa extra wrap up",Osobni razvojni cilj,2020-12-31,2,,
+782,2,Inzistiranje na konkretnom pokušaju dogovora / upornost,Osobni razvojni cilj,2020-12-31,2,,
+783,2,Ukupna naplata Corporate Teama u razdoblju od 1.7.2020. do 31.12.2020.,Ukupna naplata Corporate Teama,2020-12-31,1,,
+784,2,"Postotak uspješno realiziranih sporazuma u odnosu na zakljuèene sporazume s dužnicima, jamcima i založnim dužnicima",Realizacija sporazuma,2020-12-31,1,,
+785,2,"Team portfolio planning and budgeting, collection planning and planning of team / department goals",Strategy and planning,2020-12-31,2,,
+786,2,"Development of management skills, organization and coordination of team work, setting and monitoring goals, resolving conflict situations",Organization skills,2020-12-31,2,,
+787,2,"Smanjiti broj ticketa vezanih za DE (revidiranje DE, promjene u DE i radionice s userima)",Smanjenje broj incidenata vezano za Decision Engine (DE),2020-12-31,1,,
+788,2,smanjenje broja incidenata za DMS (edukacija usera ili dorada workflow-a),Smanjenje broja incidenata vezano za DMS,2020-12-31,1,,
+789,2,"Prijenos znanja kolegi Marvelu vezano za sustav Pantheon (5 podruèja supporta)
+Ciljana podruèja: 
+1.support vezan za uvoz teèajeva
+2.support vezan za nadogradnju Pantheona
+3.support vezan za prijenos customera iz Arotrona
+4.support vezano za prijenos GL evenata
+5. support vezano za prijenos raèuna iz mdocsa",Prijenos znanja kolegi Marvelu vezano za support u Pantheonu,2020-12-31,1,,
+790,2,Udemy teèaj - javascript u svrhu dorade skripti u DMS-u koje definiraju workflowe i ponašanje sustava u svrhu bržeg supporta korisnicima i manjeg utroška sati podrške od strane vendora,Udemy teèaj - javascript,2020-12-31,2,,
+791,2,Broj dogovorenih uplata/ postotak ostvarenih uplata,Individualni cilj,2020-12-31,1,,
+792,2, Broj ostvarenih uplata u iznosu od 1 000 HRK i više,Individualni cilj,2020-12-31,1,,
+793,2, Individualna ukupna naplata,Individualni cilj,2020-12-31,1,,
+794,2,Unapreðenje komunikacijskih vještina/ prezentacija predloženog rješenja kroz osobine i koristi,Osobni razvojni cilj,2020-12-31,2,,
+795,2,Unapreðenje komunikacijskih vještina/ upornost u pokušaju dogovora uplate,Osobni razvojni cilj,2020-12-31,2,,
+796,2,"Pokretanje pravnih postupaka na svim kolateralima gdje istih nema u predmetima u Priority 1,2,3 (pokretanje postupka podrazumjeva slanje prijedlog za ovrhu na sud/kod j.b)","Pokretanje pravnih postupaka u Priority 1,2,3",2020-12-31,1,,
+797,2,Ukupna osobna naplata/cash collected,Individualni,2020-12-31,1,,
+798,2,Postotak realiziranih predmeta,Individualni,2020-12-31,1,,
+799,2,Ukupan broj realiziranih predmeta( Account NO),Indivuadlni,2020-12-31,1,,
+800,2,"Predložiti poboljšanje poslovanja te se više ukljuèiti u strateške ciljeve/incijative ( cash collected, poboljšati i unaprijediti odnos s partnerima, razvoj tima)",Osobni razvojni cilj,2020-12-31,2,,
+801,2,Promise assessment i povezivanje uplata,Individualni,2020-12-31,1,,
+802,2,Praæenje kvalitete odraðenog posla Savjetnika u naplati (promjena trenutnog naèina evaluacije rada) ,individualni,2020-12-31,1,,
+803,2,Prijedlog noviteta u masovnim ponudama (kampanjama) i aktivnostima naplate ,Individualni,2020-12-31,1,,
+804,2,Time management skills poboljšanje ,Osobni razvojni cilj,2020-12-31,2,,
+805,2,Leadership skills evaluacija ,Osobni razvojni cilj,2020-12-31,2,,
+806,2,Ukupno naplaæeni iznos unutar polugodišta,Individualni,2020-12-31,1,,
+807,2,Broj dogovorenih uplata/postotak ispunjenih uplata,Individualni,2020-12-31,1,,
+808,2,Broj izvršenih uplata od 1000HRK i više,Individualni,2020-12-31,1,,
+809,2,Unaprjeðenje komunikacijskih vještina: Konkretan pokušaj dogovora/upornost,Osobni razvojni cilj,2020-12-31,2,,
+810,2,Prezentacija predloženog rješenja: Osobina+korist,Osobni razvojni cilj,2020-12-31,2,,
+811,2,Ukupno naplaæen iznos unutar pologodišta,Individualni cilj,2020-12-31,1,,
+812,2,Broj dogovorenih uplata / postotak izvršenih,Individualni cilj,2020-12-31,1,,
+813,2,Broj izvršenih uplata od 1000 kn i više,Individualni cilj,2020-12-31,1,,
+814,2,Veæa uèinkovitost:                                                                     smanjiti uporabu Exstra Wrap Up,Osobni razvojni cilj,2020-12-31,2,,
+815,2,Unaprjeðenje komunikacijiskih vještina:                              inzistiranje na konkretnom pokušaju dogovora / upornost,Osobni razvojini cilj,2020-12-31,2,,
+816,2,Strateški prioritetan projekt na nivou društva s ciljem optimizacije postojeæih procesa i poveæanja efikasnosti istih te smanjenjem troškova.,Project improvment proces (HH),2020-12-31,1,,
+817,2,"Pripremiti feedback proces, napisati proceduru i evaluacijski listiæ",Legal advisors feedback process,2020-12-31,1,,
+818,2,Pronaæi naèin na koji se može potaknuti naplata za segment dužnika za koje znamo da su u inozemstvu,Out of state debtors,2020-12-31,1,,
+819,2,Timska evaluacija voditelja,Leadership skills evaluacija,2020-12-31,2,,
+820,2,Automatsko praæenje sporazuma (s otpisom kamate),Individualni cilj ,2020-12-31,1,,
+821,2,Optimal time to call projekt ,Individualni cilj ,2020-12-31,1,,
+822,2,Prijedlog noviteta u masovnim ponudama (kampanjama) i aktivnostima naplate ,Individualni cilj,2020-12-31,1,,
+823,2,Poboljšanje asertivnosti ,Osobni razvoj ,2020-12-31,2,,
+824,2,Leadership skills evaluacija ,Osobni razvoj ,2020-12-31,2,,
+827,2,Znanje programske okoline potrebno za izradu KPI aplikacije,"Spring& Hibernate for beginners, teèaj",2020-11-01,2,2020-10-04 10:32:52.810000,davorin.m
+828,2,Aplikacija za obradu podataka alokacije radnog vremena,Aplikacija za alokaciju,2020-12-31,1,2020-10-07 09:48:42.673000,davorin.m
+829,2,Napraviti app za KPI za HR odjel,KPI app,2020-12-31,1,,
+830,2,Kroz edukacije i dodatnu dokumentaciju SBA æe prenjeti znanje ostatnu BA time za taskove s kojim još ne rade.,Prijenos znanja BA timu uz edukacije i popratnu dokmentaciju,2020-12-31,1,,
+831,2,"Za tickete tipa brisanje akcije, promjene statua predmeta, externalizacije, uvesti æu odreðene promjene u procesu i održati edukacije kako bi se smanjio broj tih ticketa. Metode su: dodatni reporti, edukacije, novi procesi, dodatne funkcionalnosti unutar AroTRON-a",Smanjenje broja ticketa,2020-12-31,1,,
+832,2,"Edukacija u programskom jeziku Java SE kako bi imao osnovno znanje za izradu aplikacije. Osim Java SE potrebno je educirati se u drugim jezicima i tehnologijama: Spring, Thymeleaf, Hibernate, MSSQL, HTML, CSS. Edukacije su preko Udemy platforme.",Edukacija programskih jezika i alata za razvoj HR KPI aplikacije,2020-12-31,2,,
+833,2,"strateški prioritetan projekt na nivou Društva s ciljem optimizacije postojeæih procesa i poveæanja efikasnosti istih, uz smanjenje troškova",Hidden hook project,2020-12-31,1,,
+834,2,"sudjelovanje u projektu 3pc, cilj dodatan izvor prihodakroz novu granu djelatnosti",3pc project,2020-12-31,1,,
+835,2,pronaæi naèin poveæanja postotka pokušaja poziva koji rezultiraju javljanjem / uspostavljanjem kontakta vs. NA; pri prezentaciji rezultata obavezno priložiti report koji prikazuje trendove kroz vrijeme,Answer rate improvement,2020-12-31,1,,
+836,2,predložiti novu strategiju upravljanja skip tracing dijelom portfelja,Skip tracing strategija,2020-12-31,1,,
+837,2,pripremiti potencijalnog nasljednika pozicije Voditelja odjela naplate u sluèaju potrebe ,Razvoj nasljednika pozicije,2020-12-31,2,,
+838,2,"pronaæi rješenje temeljem kojeg æe se collection TL-ovi (Weber, Novkoviæ) izdignuti na razinu sukladnu poziciji u manje razvijenim podruèjima ili definirati exit strategiju i osigurati nasljednika",Pronalazak rješenja za otpimizaciju menadžmenta u Odjelu,2020-12-31,2,,
+839,2,"Smanjiti broj ticketa vezanih za Decision Engine (revidiranje DE, promjene u DE i radionice s userima)",Individualni,2020-12-31,1,,
+840,2,Kreiranje templatea i procedura te korištenje istih kako bi ubrzali i poveæali preciznost promjene LA i CM,Individualni,2020-12-31,1,2020-09-22 13:18:20.260000,davorin.m
+841,2,Edukacija i radionica za prijenos customer importa na DQA  uz popratnu edukaciju do 30.11.2020,Individualni,2020-12-31,1,2020-09-22 13:18:20.317000,davorin.m
+842,2,Udemy teèaj - Learn Python Programming Masterclass,Razvojni,2020-12-31,2,2020-09-22 13:18:20.360000,davorin.m
+843,2,"Definiranje kljucnih podataka, nacin prikupljanja, obrade i odgovornost za tocnost istih te nacina kontinuiranog monitoriranja podataka.",Initiate definition of DQ dashboard for Back Office Portfolio Support Department,2020-12-31,1,,
+844,2,"Definiranje kljucnih podataka, nacin prikupljanja, obrade i odgovornost za tocnost istih te nacina kontinuiranog monitoriranja podataka.",Initiate definition of DQ dashboard for Resolution department,2020-12-31,1,,
+845,2,Priprema podataka u projektu Solaris vezani za nekretnine kao kolateral ili kao imovina temeljem promjene logike importa podataka i dorade sustava,SOLARIS data,2020-12-31,1,,
+846,2,Primjena kroz dnevni posao naucenog temeljem edukacije,Upravljanje u stresnim situacijama,2020-12-31,2,,
+847,2,"Definiranje kljuènih podataka, naèin prikupljanja, obrade i odgovornost za toènost istih te naèina kontinuiranog monitoriranja podataka.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ",Initiate deffinition of DQ dashboard for Real estate department,2020-12-31,1,,
+848,2,"Definiranje kljuènih podataka, naèin prikupljanja, obrade i odgovornost za toènost istih te naèina kontinuiranog monitoriranja podataka.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ",Initiate deffinition of DQ dashboard for Asset management department,2020-12-31,1,,
+849,2,Definiranje edukacije i plan provedbe edukacije novih zaposlenika o korištenju sustava i poslovnih procesa,Educiranje novih zaposlenika o korištenju sustava i poslovnih procesa,2020-12-31,1,,
+850,2,Integriranje optimiziranih procesa u redovan daily business te kontrola istih. ,Provedba i kontrola optimiziranih procesa,2020-12-31,1,,
+851,2,Poboljšanje u svakodnevno radu temeljem primjene nauèenog na edukaciji za upravljanje vremenom,Upravljanje vremenom ,2020-12-31,2,,
+852,2,"Prepare Documentation of Data Quality Dash board based on relevant indicator  (Context, Storage, Data Flow, Workflow,Owneship, Monitoring) for core business departments (Resooultion, Asset management, RealEstate, Back Office)",Initiate deffinition of DQ dashboard,2020-12-31,1,,
+853,2,Prepration and controll of data required for Solaris project,SOLARIS_Data preparation ,2020-12-31,1,,
+854,2,Integration and control of optimized procesess in daily business ,"Addaption of opimized processes (""Hidden hook"")",2020-12-31,1,,
+855,2,Education definition and implementation plan for onbording HR process,Onboarding education for Artoron usage and business processes,2020-12-31,1,,
+856,2,Participation on stress management education and apllying of new knowlage ,Stress management education,2020-12-21,2,,
+857,2,Identifikacija kandidata za poziciju Team leadera u REO Odjelu,Razvoj Team leadera u REO Odjelu,2020-12-31,2,,
+858,2,Sudjelovanje u izradi procesa prodaje kolaterala u suradnji s AM Odjelom,Poboljšanje procesa prodaje kolaterala,2020-12-31,2,,
+859,2,Recovered amount from 01.07.-31.12.2020. for SME Team,Recovered amount in MKN,2020-12-31,1,,
+860,2,"Percentage of successfully concluded and realized / in realization agreements with debtors, guarantors and pledge debtors",Successful agreements  ,2020-12-31,1,,
+861,2,"Pisanje procedure za ""Write of"" proces u Asset management odjelu","Procedura za ""Write of"" proces",2020-12-31,1,,
+862,2,"Pisanje procedure za ""Debt sale"" proces u Asset management odjelu","Procedura za ""Debt sale"" proces",2020-12-31,1,,
+863,2,"Nauèiti upravljati stresom na radnom mjestu unutra tima/organizacije, te smanjiti razinu stresa i  identificirati izvor stresa (valuacija da li je razina stresa smanjena pomoæu ankete meðu èlanovima tima+Head)",Upravljanje stresom na radnom mjestu,2020-12-31,2,,
+864,2,"Priprema materijala i prezentacije, održavanje edukacije Odjelu upravljanja imovinom (2 grupe miješanih timova), priprema ankete za feedback u vezi preuzimanja nekretnina na elektronièkoj javnoj dražbi i pravnim moguænostima prijeboja, odnosno osloboðanja od plaæanja kupovnine uz osvrt na prodaju potraživanja za vrijeme trajanja elektronièke javne dražbe",Edukacija na temu prijeboja u steèaju,2020-12-31,2,,
+865,2,"Održavanje interne edukacije s kolegom struènjakom za upravljanje imovinom radi boljeg razumijevanja krivulja, discount proposala te utjecaja proteka vremena na vrijednost novca",Razvoj ekonomskih vještina,2020-12-15,2,,
+866,2,Learning about the impact of stress and the tools how to manage it ,Stress management ,2020-12-31,2,,
+867,2,"Recovered amount in MKN:
+Description: recovered amount from 01.07.-31.12.2020. for Retail Secured Team",Timski cilj,2020-12-31,1,,
+868,2,"Successful agreements  :
+Description: Percentage of successfully concluded and realized / in realization agreements with debtors, guarantors and pledge debtors",Timski cilj,2020-12-31,1,,
+869,2,"Cilj obuhvaæa osobni obilazak nekretnine/suda za predmete u Priority 1 (Field visit: gdje posljednjih 6 mjeseci nije obavljen isti ili je obavljen od strane drugog CM-a/LM-
+- u sluèaju nepovoljne situacije uzrokovane virusom COVID-19, revizija KPI-a nakon 3 mjeseca",Field visit/Court visit_VOL2,2020-12-31,2,,
+870,2,"Recovered amount in MKN:
+Description: recovered amount from 01.07.-31.12.2020. for Corporate team",Timski cilj,2020-12-31,1,,
+871,2,"Successful agreements:
+Description: Percentage of successfully concluded and realized/in realization agreements with debtors, guarantors and pledge debtors",Timski cilj,2020-12-31,1,,
+872,2,"1. Provjera I pregled angažiranih vanjskih odvjetnièkih ureda u Corporate portfelju (inicijalni status)
+2. Provjera I donošenje kriterija za externalizaciju: dodjela predmeta, povlaèenje predmeta, izvještaj praæenja rada vanjskih odvjetnièkih ureda I na kraju uputa za externalizaciju
+3. Suradnja s vanjskim odvjetnièkim uredima (po osiguranim i neosiguranim kreditima). Cilj je uspostaviti proces rada vanjskih odvjetnièkih ureda bez podrške internih pravnika i razviti njihovu komunikaciju sa svim sudionicima procesa (CM, raèunovodstvo, LM itd...) te praæenje da je proces uspješno implementiran
+4. Modul odvjetnièkih ureda - analiza postojeæeg stanja (koji su problemi/nedostaci), prijedlozi za poboljšanje, rješenje u vidu prijedloga i koraka koji trebaju biti poduzeti",INDIVIDUALNI: Externalizacija - vanjski odvjetnièki uredi,2020-12-31,2,,
+873,2,Cilj obuhvaæa izradu te prezetaciju Case study-a zakljuèno sa 31/12/2020,Timski cilj,2020-12-31,2,,
+874,2,"Cilj obuhvaæa osobni obilazak nekretnine/suda za predmete u Priority 1 (Field visit: gdje posljednjih 6 mjeseci nije obavljen isti ili je obavljen od strane drugog CM-a/LM-
+u sluèaju nepovoljne situacije uzrokovane virusom COVID-19, revizija KPI-a nakon 3 mjeseca",Razvojni cilj,2020-12-31,1,,
+875,2,"pokretanje pravnih postupaka na svim kolateralima gdje istih nema u predmetima u Priority 1,2,3 (pokretanje postupka podrazumjeva slanje prijedlog za ovrhu na sud/kod j.b)",Razvojni cilj,2020-12-31,2,,
+876,2,Svrha cilja je postiæi samostalnost u radu djelatnika,Razvojni cilj,2020-12-31,2,,
+877,2,"Priprema materijala I prezentacije, održavanje edukacije Odjelu upravljenja imovinom (2 grupe miješanih timova), priprema ankete za feedback",Edukacija na izabranu temu,2020-12-31,2,,
+878,2,"Obilazak nekretnine / suda za predmete u Priority 1ili2 (ako su svi u priority 1 odraðeni), provjera stanja nekretnina na terenu, traženje dodatnih elemenata koji se mogu koristiti u sudskim postupcima; opširan report u Arotronu o nalazu. U sluèaju nepovoljne situacije zbog COVID-19 krize, revizija KPI nakon 31.10.2020",INDIVIDUALNI: Field visit/ Court visit,2020-12-31,1,,
+879,2,"Cij obuhvaæa pokretanje postupaka na svim kolateralima gdje istih nema u predmetima u Priority 1,2,3 (Pokretanje postupaka podrazumijeva slanje prijedloga za ovrhu na sud/kod javnog bilježnika","INDIVIDUALNI: Utuženja/ Pokretanje pravnih postupaka u Priority 1,2,3",2020-12-31,1,,
+880,2,"Arhiviranje obuhvaæa:
+1. izradu upute za arhiviranje i održavanje edukacije svim timovima
+
+2. praæenje timova te izrada tjednog izvještaja (feedback od voditelja ukoliko nije napravljen dovoljan broj arhiviranja)
+3. quality check unesenih podataka
+4. održavanje baze do importa podataka u AroTron ",Arhiviranje,2020-12-31,1,,
+881,2,"Cilj obuhvaæa osobni obilazak nekretnine/suda za predmete u Priority 1 (Field visit: gdje posljednjih 6 mjeseci nije obavljen isti ili je obavljen od strane drugog CM-a/LM-
+- u sluèaju nepovoljne situacije uzrokovane virusom COVID-19, revizija KPI-a nakon 3 mjeseca",Field visit/Court visit_VOL2,2020-12-31,2,,
+882,2,Cilj obuhvaæa objavu prodaje potraživanja na web stranici B2 Nekretnine za predmete iz Priority 1 (ak je nedovoljan broj grupa u Priority 1 uzeti Priority 2 pa 3),Oglašavanje prodaje potraživanja na B2 Nekretnine,2020-12-31,2,,
+883,2,Cilj obuhvaæa poboljšanje prezetacijskih vještina (edukacija HR + samorazvoj),Prezentacijske vještine (CC2/Strategy),2020-12-31,2,,
+884,2,"Obilazak nekretnine / suda za predmete u Priority 1 ili 2 (ako su svi u 1 pokriveni), provjera stanja nekretnina na terenu, traženje dodatnih elemenata koji se mogu koristiti u sudskim postupcima; opširan report u Arotronu o nalazu. U sluèaju nepovoljne situacije zbog COVID-19 krize, revizija KPI nakon 31.10.2020",Field visit/Court visit,2020-12-31,1,,
+885,2,"Definirati poslove, kreirati upute za rad i prenijeti poslove na osobe koje æe ih obavljati tijekom moje odsutnosti",DEFINIRANJE I PRIJENOS POSLOVA,2020-12-31,1,,
+886,2,Detaljno prouciti mogucnosti Codeksa koje mogu olakšati rad. ,POVECANJE EFIKASNOSTI APLIKACIJE CODEKS,2020-12-31,1,,
+887,2,"Cilj je smanjiti troškove koji idu preko Office managementa na nacin da se definiraju svi troškovi i pokušaju ispregovarati nove, niže cijene ili promjena dobavljaca",SMANJENJE TROŠKOVA,2020-12-31,1,,
+888,2,Proci edukaciju prezentacijskih vještina,PREZENTACIJSKE VJEŠTINE,2020-12-31,2,,
+889,2,Proci edukaciju,Time management,2020-12-31,2,,
+890,2,Kreiranje programa zadržavanja kljuènih zaposlenika ggggg,Retention Policy - politika zadržavanja kljuènih zaposlenika,2020-10-31,1,2020-10-05 10:22:39.760000,ivana.l
+892,2,"Uspostava sustava internih edukacija - soft skills,tehnièke edukacije (Excel, Arotron, DMS,...)",Interne edukacije,2020-12-31,1,2020-10-05 10:22:39.913000,ivana.l
+893,2,Uspostava kontrolnih mehanizama u upravljanju kompanijom u procesu promjena i doprinos kriznoj komunikaciji.,Change management,2020-12-31,2,2020-09-23 14:21:45.630000,ivana.l
+894,2,Pohaðanje 8-dnevne radionice i certifikacija za Coacha.,Škola coacheva - certifikacija,2020-11-15,2,2020-09-23 14:21:45.767000,ivana.l
+895,2,"Poboljšanje prezentacijskih vještina kroz edukaciju HR, vlastitog istraživanja i treninga (prezentacije na kreditnom odboru i interno); feedback Head AM + TL",Prezentacijske vještine,2020-12-31,2,,
+896,2,Recovered amount from 01.07.-31.12.2020. for SME Team,Recovered amount in MKN,2020-12-31,1,,
+897,2,"Percentage of successfully concluded and realized / in realization agreements with debtors, guarantors and pledge debtors",Successful agreements  ,2020-12-31,1,,
+898,2,"pokretanje pravnih postupaka na svim kolateralima gdje istih nema u predmetima u Priority 1,2,3 (pokretanje postupka podrazumjeva slanje prijedloga za ovrhu na sud/kod j.b)","Pokretanje pravnih postupaka u Priority 1,2,3",2020-12-31,1,,
+899,2,"Cilj obuhvaca osobni obilazak suda za predmete u Priority 1 (Field visit: gdje posljednjih 6 mjeseci nije obavljen isti ili je obavljen od strane drugog LM)
+- u slucaju nepovoljne situacije uzrokovane virusom COVID-19, revizija KPI-a nakon 3 mjeseca",Court visit_VOL2,2020-12-31,2,,
+900,2,Cilj obuhvaca izradu te prezetaciju Case study-a zakljucno sa 31/12/2020,Case study,2020-12-31,2,,
+901,2,"Recovered amount in MKN:
+Description: recovered amount from 01.07.-31.12.2020. for Corporate Team
+",Timski cilj,2020-12-31,1,,
+902,2,"Successful agreements  :
+Description: Percentage of successfully concluded and realized / in realization agreements with debtors, guarantors and pledge debtors
+",Timski cilj,2020-12-31,1,,
+903,2,"Priprema materijala i prezentacije, održavanje edukacije Odjelu upravljanja imovinom (2 grupe miješanih timova), priprema ankete za feedback",Osobni cilj - Edukacija na temu: Prezentacija složene strukture jednog predmeta,2020-12-31,2,,
+904,2,"Interna edukacija (IT), samostalno istraživanje u cilju dobivanja naprednih znanja i moguænosti poboljšanja rada ",Osobni cilj - Arotron - napredna edukacija,2020-12-31,2,,
+905,2,"Obilazak nekretnine / suda za predmete u Priority 1 ili 2 (ako su svi u 1 pokriveni), provjera stanja nekretnina na terenu, traženje dodatnih elemenata koji se mogu koristiti u sudskim postupcima; opširan report u Arotronu o nalazu. U sluèaju nepovoljne situacije zbog COVID-19 krize, revizija KPI nakon 31.10.2020
+",Poslovni cilj - Field visit / Court visit,2020-12-31,1,,
+906,2,"1) 2 way communication (listening, awareness, emphaty, encouragement)
+2) Developing employees (new skills, tricks and tips on recovery, passing knowledge, building up confidence, presentation and negotiation skills)
+3) Communication with other dep. (ensure positive and professional comm.; HR workshop if necessary)
+4) Feedback on performance: constructive criticism, praise on result, acknowledge (lack) of improvement",Building up a department,2020-12-31,2,,
+907,2,Smanjenje troškova,Poslovni ciljevi,2020-12-31,1,,
+908,2,Revidiranje svih podataka o službenim vozilima.,Podaci o službenim vozilima,2020-12-31,1,,
+909,2,detaljno razdraditi i definirati proceduru za nabavu službenih vozila,Procedura vezana za nabavu službenih vozila,2020-12-31,1,,
+910,2,Proæi edukaciju Komunikacija,Komunikacija,2020-12-31,2,,
+911,2,Proæi edukaciju Osnovni excel ,Osnovni excel,2020-12-31,2,,
+912,2,Ukupan broj promise-a i postotak ispunjenog promise-a u periodu od 01.07. do 31.12.,Individualni cilj,2020-12-31,1,,
+913,2,Ukupna naplata u periodu od 01.07. do 31.12.,Individualni cilj,2020-12-31,1,,
+914,2,"Ukupan broj uplata iznad 1.000,00 HRK u periodu od 01.07. do 31.12.",Individualni cilj,2020-12-31,1,,
+915,2,"Razvoj organizacijskih, menaðerskih i voditeljskih vještina (definiran akcijski plan)",Individualni cilj,2020-12-31,1,,
+916,2,Razvoj Monitoringa te mjerenje uèinka prenesenog znanja na savjetnika (definiran akcijski plan),Osobni razvoj,2020-12-31,2,,
+917,2,Kontrola poveæanog stresa (poslovno i privatno),Osobni cilj,2020-12-01,2,,
+918,2,Ukupno naplaæen iznos unutar polugodišta ,Individualni ,2020-12-31,1,,
+919,2,Broj dogovorenih uplata/ postotak ostvarenih ,Individualni,2020-12-31,1,,
+920,2,Broj izvršenih uplata od 1000 kn i više ,Individualni ,2020-12-31,1,,
+921,2,Unaprjeðenje komunikacijskih vještina/prezentacija predloženog riješenja kroz osobine i koristi ,Osobni razvojni cilj,2020-12-31,2,,
+922,2,Unaprjeðenje komunikacijskih vještina/inzistiranje na konkretnom pokušaju dogovora uplate i upornost,Osobni razvojni cilj,2020-12-31,2,,
+923,2,Ukupan broj dogovorenih uplata/postotak ispoštovanih dogovorenih dogovora,Individualni cilj,2020-12-31,1,,
+924,2,Individualna naplata,Individualni cilj,2020-12-31,1,,
+925,2,"Dogovorene uplate iznad 1000,00 HRK",Individualni cilj,2020-12-31,1,,
+926,2,Poveæanje asertivnosti i prepoznavanje kljuènih prblema,Poboljšanje komunikacijskih vještina/razvojni,2020-12-31,2,,
+927,2,recovered amount from 01.07.-31.12.2020. for Retail Secured Team,Recovered amount in MKN,2020-12-31,1,,
+928,2,"Percentage of successfully concluded and realized / in realization agreements with debtors, guarantors and pledge debtors",Successful agreements  ,2020-12-31,1,,
+929,2,"Procedura treba obuhvaæati:
+1. Strategiju postupanja prema klijenta od strane AM odjela
+2. Postupci i radnje po kupljenim portfeljima
+3. Kriteriji i postupak eksternalizacije",Izrada procedure AM,2020-12-31,1,,
+930,2,Cilj obuhvaæa razvijanje djelatnika Marija Bošnjak na naèin da se postigne samostalnost i raznolikost u obavljanju zadataka. Uspjeh bi se oèitovao kroz razvijanje njezinih vještina koji bi kasnije mogli biti usmjereni i korišteni za druge zadatke na nivou poslodavca a sve na temelju postavljenog zadatka unutar njezinih ciljeva (B2Nekretnine i prezentacijske vještine),Razvoj djelatnika Retail Secured tima - Marija Bošnjak,2020-12-31,2,,
+931,2,Cilj obuhvaæa razvijanje djelatnika Lea na naèin da se postigne samostalnost i raznolikost u obavljanju zadataka. Uspjeh bi se oèitovao kroz razvijanje njezinih vještina koji bi kasnije mogli biti usmjereni i korišteni za druge zadatke na nivou poslodavca a sve na temelju postavljenog zadatka unutar njezinih ciljeva (B2Nekretnine i prezentacijske vještine),Razvoj djelatnika Retail Secured tima - Lea Miletiæ,2020-12-31,2,,
+932,2,Organizacijska vještina važna je za razvoj djelatnika buduæi da pokazuje razinu samodiscipline i poštivanje postavljenih rokova kao i produktivno upravljanje timom.,Organizacijske vještine,2020-12-31,2,,
+933,2,Cilj obuhvaæa razvijanje djelatnika Daniela Vignjeviæa na naèin da se postigne samostalnost i raznolikost u obavljanju zadataka. Uspjeh bi se oèitovao kroz razvijanje njegovih vještina koje bi kasnije mogle biti usmjerene i korišteni za druge zadatke na nivou poslodavca a sve na temelju postavljenog zadatka unutar njezinih ciljeva (B2Nekretnine i prezentacijske vještine),Razvoj djelatnika SME tima - Daniel Vignjeviæ,2020-12-31,2,,
+934,2,Cilj obuhvaæa razvijanje djelatnika Anita Cvetko na naèin da se postigne samostalnost i raznolikost u obavljanju zadataka. Uspjeh bi se oèitovao kroz razvijanje njezinih vještina koje bi kasnije mogle biti usmjerene i korištene za druge zadatke na nivou poslodavca a sve na temelju postavljenog zadatka unutar njezinog cilja  (Eksternalizacija u Vanjske odvjetnièke urede),Razvoj djelatnika Retail Secured tima - Anita Cvetko,2020-12-31,2,,
+935,2,"Otptimatizacija radnih procesa u timu Closing (dorada postojeæih, prijedlozi i nadopune)",Optimization WF  Closing,2020-12-31,1,,
+936,2,Popis i razrada svih taskova unutar Closing tima,List and elaboration of all tasks for Closing team,2020-12-31,1,,
+937,2,Održana radionica na temu Kako kreirati i razmijeti važnost radnih procesa koristeæi logièno razmišljanje,Workshop/ topic: How to creat WF (logical thinking),2020-12-31,2,,
+938,2,Akciju aktivacije riješiti u 7 radnih dana (bez odgode vremena s fazom),Smanjivanje vremenskog perioda rješavanja aktivacije,2020-12-31,1,,
+939,2,Akciju aktivacije riješiti u 7 radnih dana (bez odgode vremena s fazom),Smanjivanje vremenskog perioda rješavanja aktivacije,2020-12-31,1,,
+940,2,Kreirati priruènik s najèešæim pitanjima i odgovorima za sve procese za savjetnike u Odjelu naplaten,Kreiranje priruènika o procesima unutar support tima za savjetnike u Odjelu naplate,2020-12-31,2,,
+941,2,Akciju aktivacije riješiti u 7 radnih dana (bez odgode vremena s fazom),Smanjivanje vremenskog perioda rješavanja aktivacije,2020-12-31,1,,
+942,2,Revidirati postojeæi proces i uskladiti promjene u postupanjima,Optimizacija procesa opoziva kolaterala,2020-12-31,1,,
+943,2,Revidirati postojeæe template dopisa i importirati ih u Arotron,Revidiranje postojeæih template-a dopisa i njihov import u Arotron,2020-12-31,1,,
+944,2,napraviti report za  predmete na kojima postoji Sporazum (djelomièan) s otpisom ZZK ,Agreement tracking report,2020-12-31,1,,
+945,2,Analizirati predmete sa statusom Potential Claim i zatvoriti ih s pripadajuæim rezultatima.,Èišæenje Potential Claim Q,2020-12-31,1,,
+946,2,Revidirati postojeæi proces i uskladiti promjene u postupanjima,Optimizacija procesa aktivacije i nadopune kolaterala,2020-12-31,1,,
+947,2,Ažurirate postojeæe upute sukladno revidiranju svih procesa i kreirati priruènik za mentoriranje,Ažuriranje uputa o procesima unutar support tima i kreiranje priruènika za mentoriranje,2020-12-31,2,,
+948,2,Akciju aktivacije riješiti u 7 radnih dana (bez odgode vremena s fazom,Smanjivanje vremenskog perioda rješavanja aktivacije,2020-12-31,1,,
+949,2,Akciju aktivacije riješiti u 7 radnih dana (bez odgode vremena s fazom),Smanjivanje vremenskog perioda rješavanja aktivacije,2020-12-31,1,,
+950,2,recovered amount from 01.07.-31.12.2020. for Retail Secured Team,Recovered amount in MKN,2020-12-31,1,,
+951,2,"Percentage of successfully concluded and realized / in realization agreements with debtors, guarantors and pledge debtors",Successful agreements ,2020-12-31,1,,
+952,2,Cilj obuhvaæa izradu te prezetaciju Case study-a zakljuèno sa 31/12/2020,Case study (1-2) ,2020-12-31,1,,
+953,2,"Uputom treba biti propisano postupanje u Retail secured timu na naèin da budu jasno naznaèene odgovornosti djelatnika, aktivnosti i postupci koji dovode do ostvarenja naplate predmeta",Izrada upute za rad - Retail secured,2020-12-31,2,,
+954,2,"Cilj obuhvaæa osobni obilazak nekretnine/suda za predmete u Priority 1 (Field visit: gdje posljednjih 6 mjeseci nije obavljen isti ili je obavljen od strane drugog CM-a/LM-
+- u sluèaju nepovoljne situacije uzrokovane virusom COVID-19, revizija KPI-a nakon 3 mjeseca",Field visit/Court visit_VOL1,2020-12-31,2,,
+955,2,Cilj obuhvaæa objavu prodaje potraživanja na web stranici B2 Nekretnine za predmete iz Priority 1 (ak je nedovoljan broj grupa u Priority 1 uzeti Priority 2 pa 3),Oglašavanje prodaje potraživanja na B2 Nekretnine,2020-12-31,2,,
+956,2,Cilj obuhvaæa poboljšanje prezetacijskih vještina (edukacija HR + samorazvoj),Prezentacijske vještine (CC2/Strategy),2020-12-31,1,,
+957,2,Ispitati zadovoljstvo razinom èistoæe u kompanije,Anketa o zadovoljstvu èistoèom,2020-12-31,1,,
+959,2,"Rješiti cjelokupni backlog pošte za vanjske odvjetnike,unos HPB povratnica u sustav i arhiviranje",Strateški poslovni,2020-12-31,1,,
+960,2,Utvrditi ispravnost  svih podataka u tablici kolaterala s fizièkim kolateralima u sefu,Analiza fizièkih kolaterala u sefu i usporedba s podacima u tablici kolaterala,2020-12-31,1,,
+961,2,Analizirati postojeæe i prikupiti sve podatke koji nedostaju i spremiti ih u odgovarajuæi folder u odgovarajuæem formatu,Prikupljanje i ažuriranje  podataka svih foldera na Collection documentation disku,2020-12-31,1,,
+962,2,Ažurirati postojeæu procedure i upute sukladno promjenama u poslovanju,Ažuriranje procedure i uputa za arhiviranje dokumentacije,2020-12-31,1,,
+963,2,Analizirati i sažeti sve izmjene koje su se dogodile u procesima postakvizcije u okolnostima karantene ,Sažetak utjecaja karantene na poslovanje tima,2020-12-31,2,,
+964,2,Utvrditi ispravnost  svih podataka u tablici kolaterala s fizièkim kolateralima u sefu,Analiza fizièkih kolaterala u sefu i usporedba s podacima u tablici kolaterala,2020-12-31,1,,
+965,2,Analizirati postojeæe i prikupiti sve podatke koji nedostaju i spremiti ih u odgovarajuæi folder u odgovarajuæem formatu,Prikupljanje i ažuriranje  podataka svih foldera na Collection documentation disku,2020-12-31,1,,
+966,2,Kreirati proceduru i upute za process masovnih (re)aktivacija,Kreiranje procedure i uputa za masovne (re)aktivacije,2020-12-31,1,,
+967,2,"U potpunosti ovladati rješavanje excel taskova- èišæenje arhivskih tablica, transakcija i fina raèuna za promjenu vjerovnika",Savladavanje najosnovnijih excel taskova u postakviziciji,2020-12-31,2,,
+968,2,Utvrditi ispravnost  svih podataka u tablici kolaterala s fizièkim kolateralima u sefu,Analiza fizièkih kolaterala u sefu i usporedba s podacima u tablici kolaterala,2020-12-31,1,,
+969,2,Revidirati postojeæi proces i uskladiti promjene u postupanjima te usvojiti procese od kolega iz support dijela,"Optimizacija i prijenos procesa vezanog uz zahtjeve poslodavaca, HZMO i Fine",2020-12-31,1,,
+970,2,Ažurirati postojeæu procedure i upute sukladno promjenama u poslovanju,Ažuriranje procedure i uputa za arhiviranje dokumentacije,2020-12-31,1,,
+971,2,"
+U potpunosti ovladati procesima CDP tima (naglasak na postakvizicijski dio)
+",Savladavanje svih procesa unutar postakvizicijskog dijela CDP tima,2020-12-31,2,,
+972,2,"Revidiranje template-a, interne arhive i share foldera u svrhu optimizacije posla","REVIDIRANJE TEMPLATE-a, INTERNE ARHIVE I SHARE FOLDERA",2020-12-31,1,,
+973,2,Prijenos poslova sa Office managera na Office asistenta,PRIJENOS POSLOVA,2020-12-31,1,,
+974,2,Smanjenje troškova uredskog materijala te sanitetske opreme,SMANJENJE TROŠKOVA ,2020-12-31,1,,
+975,2,Detaljno prouèiti i istražiti dodatne moguænosti aplikacije Codeks koje mogu ubrzati procese i olakšati rad,POVEÆANJE EFIKASNOST APLIKACIJE CODEKS ,2020-12-31,1,,
+976,2,Utvrditi ispravnost  svih podataka u tablici kolaterala s fizièkim kolateralima u sefu,Analiza fizièkih kolaterala u sefu i usporedba s podacima u tablici kolaterala,2020-12-31,1,,
+977,2,Revidirati postojeæi proces i uskladiti promjene u postupanjima te usvojiti procese od kolega iz support dijela,"Optimizacija i prijenos procesa vezanog uz zahtjeve poslodavaca, HZMO i Fine",2020-12-31,1,,
+978,2,Ažurirati postojeæu procedure i upute sukladno promjenama u poslovanju,Ažuriranje procedure i uputa za arhiviranje dokumentacije,2020-12-31,1,,
+979,2,"U potpunosti ovladati rješavanje excel taskova- èišæenje arhivskih tablica, transakcija i fina raèuna za promjenu vjerovnika",Savladavanje najosnovnijih excel taskova u postakviziciji,2020-12-31,2,,
+980,2,napraviti Report za predmete na kojima postoji Sporazum (djelomièan) s otpisom zzk,Report,2020-12-31,1,,
+981,2,Proæi edukaciju iz naprednog excela,Napredni Excel,2020-12-31,2,,
+982,2,Proæi edukaciju prezentacijskih vještina,Prezentacijske vještine,2020-12-31,2,,
+983,2,Oèistiti cijelu bazu podataka o klijentima i kolateralima te uspostaviti mehanizam kontrole i održavanja,Èišæenje setova podataka o klijentima i kolateralima u tablici kolaterala,2020-12-31,1,,
+984,2,Optimizirati unos podataka u tablicu kolaterala,Optimizacija unosa podataka u tablicu kolaterala,2020-12-31,1,,
+985,2,Kreirati proceduru i upute za process èišæenja transakcija,Kreiranje procedure i uputa za èišæenje transakcija,2020-12-31,1,,
+986,2,Održati edukaciju o osnovama excela na razini odjela,Edukacija na razini odjela o osnovama excela,2020-12-31,2,,
+987,2,Revidirati postojeæi proces i uskladiti promjene u postupanjima,Optimizacija postakvizicijskog procesa,2020-12-31,1,,
+988,2,Kreirati proceduru i upute za èišæenje Fina reporta,Kreiranje procedura i uputa za èišæenje Fina reporta,2020-12-31,1,,
+989,2,Analizirati koliko je potrebno sefova te nabavu istih za èuvanje svih originala kolaterala koje imamo.,Osigurati sef za sve originale kolaterala,2020-12-31,1,,
+990,2,"Mentoriranjem i podrškom u projektima žele se jaèati komunikacijske vještine, koordinacijske aktivnosti, asertivni stil komunikacije i motiviranje tima.",Mentorstvo i podrška svim kolegama unutar tima na projektima,2020-12-31,2,,
+991,2,Održati edukaciju o deponiranju izjava o prijenosu prava unutar tima,Edukacija o deponiranju izjava o prijenosu prava unutar tima,2020-12-31,2,,
+992,2,"Regular daily and monthly work - performing tasks in due time, according to working schedule (independence, pro-active, correctness, in deadline)",Regular daily and monthly work,2020-12-31,1,,
+993,2,Correction of old calculations according to retroactive change of health insurance,Correction of old calculations,2020-12-31,1,,
+994,2,Implementation of new way of salary calculation - sick pay and vacation based on paid average salary,Implementation of new way of salary calculation ,2020-12-31,1,,
+995,2,"Reading of professional literature and preparing of internal education for at least 3 articles in details from RRIF, TEB, 
+RIP (or presenting education on which employee participated) ",Education,2020-12-31,2,,
+996,2,Ukupno naplaceni iznos unutar polugodišta,Individualni ciljevi,2020-12-31,1,,
+997,2,Broj dogovorenih uplata / postotak ostvarenih,Individualni,2020-12-31,1,,
+998,2,Broj izvršenih uplata u iznosu 1000 kn i više ,Individualni,2020-12-31,1,,
+999,2,Unaprijedenje komunikacijskihvještina : aktivno slušanje,Osobni razvojni,2020-12-31,2,,
+1000,2,Citanje / korištenje back office i Lgal akcija,Osobni razvojni,2020-12-31,2,,
+1001,2,"Poboljšanje prezentacijskih vještina kroz edukaciju HR, vlastitog istraživanja I treninga (prezentacije na kreditnom odboru, strategy meetinzima I interno)
+Feedback Head AM+TL",PREZENTACIJSKE VJEŠTINE,2020-12-31,2,,
+1002,2,"recovered amount from 01.07.-31.12.2020. for Retail Secured Team
+",Recovered amount in MNK;,2020-12-31,1,,
+1003,2,"Percentage of successfully concluded and realized / in realization agreements with debtors, guarantors and pledge debtors",Successful agreements,2020-12-31,1,,
+1004,2,Cilj obuhvaæa izradu te prezentaciju Case study-a zakljuèno s 31/12/2020,Case study (1-2),2020-12-31,1,,
+1005,2,"Cilj obuhvaæa osobni obilazak nekretnine/suda za predmete u Priority 1 (Field visit: gdje posljednjih 6 mjeseci nije obavljen isti ili je obavljen od strane drugog CM-a/LM-
+- u sluèaju nepovoljne situacije uzrokovane virusom COVID-19, revizija KPI-a nakon 3 mjeseca",Field visit/Court visit_VOL1,2020-12-31,2,,
+1006,2,Cilj obuhvaæa objavu prodaje potraživanja na web stranici B2 Nekretnine za predmete iz Priority 1 (ak je nedovoljan broj grupa u Priority 1 uzeti Priority 2 pa 3),Oglašavanje prodaje potraživanja na B2 Nekretnine,2020-12-31,2,,
+1007,2,Cilj obuhvaæa poboljšanje prezetacijskih vještina (edukacija HR + samorazvoj),Prezentacijske vještine (CC2/Strategy),2020-12-31,2,,
+1008,2,Pohaðanje struène edukacije iz podruèja AML u svrhu stjecanja dodatnih znanja,AML struèna edukacija,2020-12-31,1,,
+1009,2,Priprema dokumentacije i pravna podrška prilikom otkazivanja ugovora o radu zaposlenika,Otkazivanje ugovora o radu,2020-12-31,1,,
+1010,2,Izrada internog akta za Odjel pozadinskih poslova vezi povrata preplaæenih sredstava,Izrada internog akta za Odjel pozadinskih poslova,2020-11-30,1,,
+1011,2,Održati AML prezentaciju u sklopu B2Start-a,Razvoj prezentacijskih vještina,2020-12-31,2,,
+1012,2,Napraviti app za KPI za HR odjel,KPI app,2020-12-31,1,,
+1013,2,voðenje pregovora I zakljuèenje ugovora za FM usluge do 30.09.2020.,Zakljuèenje FM ugovora za preuzete nekretnine,2020-12-31,1,,
+1014,2,"Prikupljanje, analiza I prezentacija I sudjelovanje u odabiru najbolje ponude za certificiranje u pogledu cijene, roka izrade te ostalih relevantih elemenata ponude te praæenje realizacije I plaæanja usluge kao I arhiviranja energetskog certifikata.",Energetsko certificiranje preuzetih nekretnina,2020-12-31,1,,
+1015,2,Savladavanje osobno relevantnih funikcija u DMSu,Samoedukacija u DMSu,2020-12-31,2,,
+1016,2,"Management I koordinacija Solaris portfelja u vidu prodaje, zakupa, preuzimanja nekretnina, i rješavanje pravnih problema vezano za nekretnine te sudjelovanje na RESCO",Management Solaris portfelja,2020-12-31,1,,
+1017,2,"Izrada I kontrola pravnih akata (ugovora o prodaji/zakupa I ostalih) te koordinacija evikcije nekretnina u vlasništvu B2K, B2RE, B2P",Pravni poslovi,2020-12-31,1,,
+1018,2,Recovered amount in MKN: recovered amount from 01.07.-31.12.2020. for SME Team ,Timski cilj,2020-12-31,1,,
+1019,2,"Successful agreements: percentage of successfully concluded and realized / in realization agreements with debtors, guarantors and pledge debtors  ",Timski cilj,2020-12-31,1,,
+1020,2,Cilj obuhvaæa izradu te prezetaciju Case study-a zakljuèno sa 31/12/2020,Case study,2020-12-31,2,,
+1021,2,"Cilj obuhvaæa osobni obilazak nekretnine/suda za predmete u Priority 1 (Field visit: gdje posljednjih 6 mjeseci nije obavljen isti ili je obavljen od strane drugog CM-a/LM-
+- u sluèaju nepovoljne situacije uzrokovane virusom COVID-19, revizija KPI-a nakon 3 mjeseca)",Field visit,2020-12-31,1,,
+1022,2,Cilj obuhvaæa objavu prodaje potraživanja na web stranici B2 Nekretnine za predmete iz Priority 1 (ak je nedovoljan broj grupa u Priority 1 uzeti Priority 2 pa 3),Oglašavanje prodaje potraživanja na B2 Nekretnine,2020-12-31,2,,
+1023,2,3rd party due diligence uveden u postpupku zakljuèenja ugovora sa treæima (pružateljima usluga) ,implementacija 3rd party due dilgence (AML iskljuèen) ,2020-12-31,1,,
+1024,2,poveæati razinu svjesti zaposlenika u poslovanju s dužnicima kao i prilikom donošenja poslovnih odluka,edukacija etika i integritet u poslovanju,2020-10-30,1,,
+1025,2,jasno definrana pravila pri odabiru ponuditelja odreðenh usluga ,reguliranje postupka nabave ,2020-11-30,1,,
+1026,2,poboljšati samostalno korištenje AroTron-a (pri rješavanju potrošaèkih prigovora) ,edukacija AroTron ,2020-12-31,2,,
+1044,2,sfisfj,kdk,2020-12-31,1,2020-09-29 10:51:48.980000,anja.sa
+1052,2,novi cilj,novi cilj,2020-12-31,1,2020-10-05 10:22:40.203000,ivana.l
+1053,2,ipi,oioio,2020-12-31,1,2020-10-05 10:23:27.807000,anja.sa
+1054,2,g,rte,2020-12-20,1,2020-10-07 09:48:42.850000,davorin.m
